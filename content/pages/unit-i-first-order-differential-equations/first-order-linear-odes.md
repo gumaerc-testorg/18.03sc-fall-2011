@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit I: First Order Differential Equations'
+parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: First Order Linear ODE's
 uid: 0d78ffc3-e5f4-5556-afa4-95492cde6c39

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Fourier Series and Laplace Transform'
+parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: ODE's with Periodic Input, Resonance
 uid: 09db90b6-761a-caa8-223d-1233e04d9d6d

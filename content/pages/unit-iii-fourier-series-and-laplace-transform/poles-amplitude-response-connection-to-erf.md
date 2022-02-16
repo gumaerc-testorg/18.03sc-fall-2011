@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Fourier Series and Laplace Transform'
+parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: Poles, Amplitude Response, Connection to ERF
 uid: 9caaa587-c1e7-c531-0115-9c1470153038

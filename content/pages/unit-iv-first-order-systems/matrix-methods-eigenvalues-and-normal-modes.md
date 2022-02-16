@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit IV: First-order Systems'
+parent_type: CourseSection
 parent_uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 title: 'Matrix Methods: Eigenvalues and Normal Modes'
 uid: e32640ee-078f-3682-feef-7b3ae9a7e8c9

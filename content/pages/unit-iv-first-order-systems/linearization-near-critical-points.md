@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit IV: First-order Systems'
+parent_type: CourseSection
 parent_uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 title: Linearization Near Critical Points
 uid: 63e076a5-12fb-f523-d18c-f5b9e2d4929d

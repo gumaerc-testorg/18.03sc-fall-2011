@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Fourier Series and Laplace Transform'
+parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: 'Fourier Series: Basics'
 uid: 074becc5-a6a6-3335-7815-bb2ca82e3a15

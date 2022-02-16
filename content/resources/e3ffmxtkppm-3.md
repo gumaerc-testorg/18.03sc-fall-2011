@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-03sc-differential-equations-fall-2011/74d557bba8d30af80a57f68d2a5009ef_e3FfmXtkppM.pdf
+file: /media/courses/18-03sc-differential-equations-fall-2011/74d557bba8d30af80a57f68d2a5009ef_e3FfmXtkppM.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 74d557bb-a8d3-0af8-0a57-f68d2a5009ef

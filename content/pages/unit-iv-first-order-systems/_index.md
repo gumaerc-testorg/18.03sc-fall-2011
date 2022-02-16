@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit IV: First-order Systems'
 uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 ---
@@ -12,7 +14,7 @@ Nonlinear phase portrait. Modeled on the MIT mathlet _Vector Fields._
 
 In this unit we study systems of differential equations. A system of ODE's means a DE with one independent variable but more than one dependent variable, for example:
 
-_x'_ = _x_ + _y_, _y'_ = _x__2_ - _y_ - _t_
+_x'_ = _x_ + _y_, _y'_ = _x_{{< sup "_2_" >}} - _y_ - _t_
 
 is a 2x2 system of DE's for the two functions _x_ = _x_(_t_) and _y_ = _y_(_t_).
 

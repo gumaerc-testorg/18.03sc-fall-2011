@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Fourier Series and Laplace Transform'
+parent_type: CourseSection
 parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 title: 'Laplace Transform: Solving Initial Value Problems'
 uid: 50c3fc82-016d-da7d-1826-dba72ff554ed

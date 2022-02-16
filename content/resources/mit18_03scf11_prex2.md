@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains practice problem statements for exam 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-03sc-differential-equations-fall-2011/d4a24ca88c851a0c9283889d161883ea_MIT18_03SCF11_prex2.pdf
+file: /media/courses/18-03sc-differential-equations-fall-2011/d4a24ca88c851a0c9283889d161883ea_MIT18_03SCF11_prex2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Exam 2
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_03SCF11_prex2.pdf
 uid: d4a24ca8-8c85-1a0c-9283-889d161883ea

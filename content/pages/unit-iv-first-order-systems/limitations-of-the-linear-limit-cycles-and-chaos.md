@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit IV: First-order Systems'
+parent_type: CourseSection
 parent_uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 title: 'Limitations of the Linear: Limit Cycles and Chaos'
 uid: d738c767-d051-1230-6ae5-07fea563425d

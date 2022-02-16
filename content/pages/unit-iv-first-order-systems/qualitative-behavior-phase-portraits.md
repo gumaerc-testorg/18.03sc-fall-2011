@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit IV: First-order Systems'
+parent_type: CourseSection
 parent_uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 title: 'Qualitative Behavior: Phase Portraits'
 uid: 40ff2d12-b0e9-bf21-b16c-0be6303c5897

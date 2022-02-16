@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit II: Second Order Constant Coefficient Linear Equations'
 uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
 ---
@@ -12,9 +14,9 @@ Periodic response of a second order system. Modeled on the MIT mathlet _Amplitud
 
 In this unit we learn how to solve constant coefficient second order linear differential equations, and also how to interpret these solutions when the DE is modeling a physical system. The language and ideas we introduced for first order linear constant coefficient DE's carry forward to the second order case—in particular, the breakdown into the homogeneous and inhomogeneous cases; the input-response language for the inhomogeneous case; and the general form of solutions as
 
-_x_ = _xh_ + _xp'_
+_x_ = _x{{< sub "h" >}}_ + _x{{< sub "p'" >}}_
 
-where _xh_ is the general solution to the homogeneous equation, and _xp_ is any particular solution to the inhomogeneous equation.
+where _x{{< sub "h" >}}_ is the general solution to the homogeneous equation, and _x{{< sub "p" >}}_ is any particular solution to the inhomogeneous equation.
 
 We first learn how to solve the homogeneous equation
 
