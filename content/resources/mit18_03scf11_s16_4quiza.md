@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Undetermined Coefficients
 parent_type: CourseSection
+parent_uid: 997c993c-eb52-2721-308a-867f2c1e5ac3
 resourcetype: Document
 title: '18.03SCF11 quiz: Solutions to Polynomial Input'
 uid: 52f751d0-3c8f-41e5-bfc5-34a175ebaae0

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Laplace Transform: Solving Initial Value Problems'
 parent_type: CourseSection
+parent_uid: 50c3fc82-016d-da7d-1826-dba72ff554ed
 resourcetype: Document
 title: '18.03SCF11 text: Part I Problems and Solutions'
 uid: 4427b065-5149-9de7-13bd-45ef870c21b9

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Damped Harmonic Oscillators
 parent_type: CourseSection
+parent_uid: fcc68029-d25e-a966-8f8d-74338ab4c023
 resourcetype: Document
 title: MIT18_03SCF11_ps3_II_s13s.pdf
 uid: d2c06ce5-eaef-4f97-b8d7-b4db55a89926

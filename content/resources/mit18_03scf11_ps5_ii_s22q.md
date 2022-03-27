@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Operations on Fourier Series
 parent_type: CourseSection
+parent_uid: ca45c161-8345-1041-6c66-419481c20e93
 resourcetype: Document
 title: MIT18_03SCF11_ps5_II_s22q.pdf
 uid: 0ff791e5-3fec-58c0-71bd-45ac1c0282b2

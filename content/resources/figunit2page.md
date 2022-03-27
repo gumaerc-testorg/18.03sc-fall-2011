@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Unit II: Second Order Constant Coefficient Linear Equations'
 parent_type: CourseSection
+parent_uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
 resourcetype: Image
 title: figunit2page.jpg
 uid: e16738de-fccd-9df7-b2d1-6b9f76a2aec3

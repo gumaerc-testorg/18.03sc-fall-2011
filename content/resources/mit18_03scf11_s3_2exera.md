@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Numerical Methods
 parent_type: CourseSection
+parent_uid: 54d03b40-8dd2-7385-59db-03f6f1ebac22
 resourcetype: Document
 title: MIT18_03SCF11_s3_2exera.pdf
 uid: 7f9b958d-07c4-e127-ec5a-e0ceb2f10c38

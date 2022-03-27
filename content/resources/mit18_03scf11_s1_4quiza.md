@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Basic DE's and Separable Equations
 parent_type: CourseSection
+parent_uid: 2f7fcab3-b55b-b888-a9aa-1c209df0024e
 resourcetype: Document
 title: MIT18_03SCF11_s1_4quiza.pdf
 uid: dd345bc8-7c53-5137-6cde-f6e6f05e81ca

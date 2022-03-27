@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exponential Response
 parent_type: CourseSection
+parent_uid: afa50382-4b4d-f214-67a3-8bdb6a9d0e27
 resourcetype: Document
 title: '18.03SCF11 intro: Introduction'
 uid: 9b630c3e-dc2f-03d5-819d-6c8835678e5a

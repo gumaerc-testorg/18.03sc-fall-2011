@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Fourier Series: Basics'
 parent_type: CourseSection
+parent_uid: 074becc5-a6a6-3335-7815-bb2ca82e3a15
 resourcetype: Document
 title: '18.03SCF11 quiz: Quiz: Cosines with Common Frequecies'
 uid: 060cc4ea-cdf6-a083-85d0-ba61efc8e6fa

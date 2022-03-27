@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Applications: LRC Circuits'
 parent_type: CourseSection
+parent_uid: df3149e1-a7f5-a2cc-28e6-5b462671494e
 resourcetype: Document
 title: '18.03SCF11 text: Impedance'
 uid: f94e3d44-e68b-bf40-2604-a41386d7713b

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Numerical Methods
 parent_type: CourseSection
+parent_uid: 54d03b40-8dd2-7385-59db-03f6f1ebac22
 resourcetype: Document
 title: '18.03SCF11 text: Part I Problems'
 uid: 42ffb8fa-4982-b846-34d6-cf4dd559a6f8

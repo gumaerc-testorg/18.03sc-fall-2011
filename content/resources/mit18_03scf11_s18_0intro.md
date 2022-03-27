@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Pure Resonance
 parent_type: CourseSection
+parent_uid: 04f0717c-e427-8b51-ee36-28a4b0f54b1f
 resourcetype: Document
 title: MIT18_03SCF11_s18_0intro.pdf
 uid: 3655af30-412e-2aeb-d0de-0067925e8eb1

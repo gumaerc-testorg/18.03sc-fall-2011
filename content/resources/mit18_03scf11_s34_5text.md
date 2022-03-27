@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Qualitative Behavior: Phase Portraits'
 parent_type: CourseSection
+parent_uid: 40ff2d12-b0e9-bf21-b16c-0be6303c5897
 resourcetype: Document
 title: '18.03SCF11 text: Trace-Determinant Diagram'
 uid: 06df29b1-358a-b10b-787e-32ae3c050ff1

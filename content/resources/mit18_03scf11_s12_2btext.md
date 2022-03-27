@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Modes and the Characteristic Equation
 parent_type: CourseSection
+parent_uid: dde9f135-842a-7894-459c-d501349e5235
 resourcetype: Document
 title: '18.03SCF11 text: The Characteristic Polynomial'
 uid: 8a67e7e0-c66a-f86d-1f68-0c115755b981

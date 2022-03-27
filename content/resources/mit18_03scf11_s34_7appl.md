@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Qualitative Behavior: Phase Portraits'
 parent_type: CourseSection
+parent_uid: 40ff2d12-b0e9-bf21-b16c-0be6303c5897
 resourcetype: Document
 title: MIT18_03SCF11_s34_7appl.pdf
 uid: a3406c64-41c0-d371-1a18-8af7f0dbfe4d

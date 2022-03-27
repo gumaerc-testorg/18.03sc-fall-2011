@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linear Systems
 parent_type: CourseSection
+parent_uid: 7704ad07-83f7-1720-a984-a52df1fbe360
 resourcetype: Document
 title: MIT18_03SCF11_s32_2exera.pdf
 uid: 3035030d-f410-f40c-d26d-c18e48c6dd41

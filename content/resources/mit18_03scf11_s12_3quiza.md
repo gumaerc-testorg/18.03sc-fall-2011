@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Modes and the Characteristic Equation
 parent_type: CourseSection
+parent_uid: dde9f135-842a-7894-459c-d501349e5235
 resourcetype: Document
 title: MIT18_03SCF11_s12_3quiza.pdf
 uid: c2a377bc-b9d3-923b-dabd-9778c411fc65

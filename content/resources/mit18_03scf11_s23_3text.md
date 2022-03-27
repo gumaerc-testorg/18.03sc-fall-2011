@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: ODE's with Periodic Input, Resonance
 parent_type: CourseSection
+parent_uid: 09db90b6-761a-caa8-223d-1233e04d9d6d
 resourcetype: Document
 title: MIT18_03SCF11_s23_3text.pdf
 uid: 89c69b5f-8b21-8636-9dfd-61426093d8a2

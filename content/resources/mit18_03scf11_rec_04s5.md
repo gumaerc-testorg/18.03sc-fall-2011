@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Solution by Integrating Factors
 parent_type: CourseSection
+parent_uid: 85e38b6f-c1b6-5066-bdac-31cdc301c1a6
 resourcetype: Document
 title: MIT18_03SCF11_rec_04s5.pdf
 uid: ec99d6c6-4d56-2537-e7d0-1708f075f1ae

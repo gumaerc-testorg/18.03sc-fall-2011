@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Complex Arithmetic and Exponentials
 parent_type: CourseSection
+parent_uid: 69221f05-4c8b-250b-3c36-eaf8a4e65a9f
 resourcetype: Other
 title: ComplexExponential.jar
 uid: d17db530-117b-0d2a-d0b0-15af8467f3e9

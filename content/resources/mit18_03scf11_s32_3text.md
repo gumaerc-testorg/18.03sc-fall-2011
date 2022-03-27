@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linear Systems
 parent_type: CourseSection
+parent_uid: 7704ad07-83f7-1720-a984-a52df1fbe360
 resourcetype: Document
 title: '18.03SCF11 text: Review of Vectors and Matrices'
 uid: dd36d8ca-12ff-afd5-a9d8-f8bf9753a199

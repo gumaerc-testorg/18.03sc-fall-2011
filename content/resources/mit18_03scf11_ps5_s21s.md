@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Fourier Series: Basics'
 parent_type: CourseSection
+parent_uid: 074becc5-a6a6-3335-7815-bb2ca82e3a15
 resourcetype: Document
 title: '18.03SCF11 text: Part I Problems and Solutions'
 uid: 02be0ab7-5ded-69c8-c8ea-db04cef9b3d2

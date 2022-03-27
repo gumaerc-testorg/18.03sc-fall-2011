@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Complex Arithmetic and Exponentials
 parent_type: CourseSection
+parent_uid: 69221f05-4c8b-250b-3c36-eaf8a4e65a9f
 resourcetype: Document
 title: '18.03SCF11 text: Part I Problems and Solutions'
 uid: 73d14039-850a-901b-51d2-c098468d6756

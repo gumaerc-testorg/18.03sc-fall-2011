@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Poles, Amplitude Response, Connection to ERF
 parent_type: CourseSection
+parent_uid: 9caaa587-c1e7-c531-0115-9c1470153038
 resourcetype: Other
 title: AmpRespPoleDiagram.jar
 uid: 8fe4eca7-4a36-bc97-69d2-fca77052b5dd

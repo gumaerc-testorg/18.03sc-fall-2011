@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Complex Arithmetic and Exponentials
 parent_type: CourseSection
+parent_uid: 69221f05-4c8b-250b-3c36-eaf8a4e65a9f
 resourcetype: Document
 title: MIT18_03SCF11_s6_1text.pdf
 uid: 7f655e36-dcda-82d9-58d8-3e1915556f0f

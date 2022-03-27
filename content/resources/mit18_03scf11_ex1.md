@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exam 1
 parent_type: CourseSection
+parent_uid: 0c2acd90-1f6a-61eb-c0f5-815ab4c4b00e
 resourcetype: Document
 title: '18.03SCF11 text: 18.03SC Unit 1 Exam'
 uid: 4d2cb217-04c6-71f1-2755-a290e84a01be

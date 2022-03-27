@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Poles, Amplitude Response, Connection to ERF
 parent_type: CourseSection
+parent_uid: 9caaa587-c1e7-c531-0115-9c1470153038
 resourcetype: Document
 title: MIT18_03SCF11_ps8_II_s31s.pdf
 uid: d33d2d09-9d21-1184-3a9e-4292afcadc6c

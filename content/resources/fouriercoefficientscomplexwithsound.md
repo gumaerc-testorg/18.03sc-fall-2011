@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: ODE's with Periodic Input, Resonance
 parent_type: CourseSection
+parent_uid: 09db90b6-761a-caa8-223d-1233e04d9d6d
 resourcetype: Other
 title: FourierCoefficientsComplexWithSound.jar
 uid: 91357d00-1d5e-badf-bb15-14941327c040

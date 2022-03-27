@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unit Step and Unit Impulse Response
 parent_type: CourseSection
+parent_uid: ae5a9153-e84a-4720-7bba-52a575f9d6d8
 resourcetype: Document
 title: MIT18_03SCF11_s25_9text.pdf
 uid: ad347481-2e9c-e7c2-27b9-569c7422d528

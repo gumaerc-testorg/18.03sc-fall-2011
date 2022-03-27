@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linearization Near Critical Points
 parent_type: CourseSection
+parent_uid: 63e076a5-12fb-f523-d18c-f5b9e2d4929d
 resourcetype: Document
 title: MIT18_03SCF11_s37_1text.pdf
 uid: 33703709-1842-7f80-82e5-6d3c9f2aac6e

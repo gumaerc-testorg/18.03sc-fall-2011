@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linear Operators, Linear Time Invariance
 parent_type: CourseSection
+parent_uid: 1db21ff5-54d4-5578-7a77-bcaa06755e55
 resourcetype: Document
 title: MIT18_03SCF11_ps4_s17q.pdf
 uid: 5bbc45a0-a1ee-9519-3057-5be72f10cea8

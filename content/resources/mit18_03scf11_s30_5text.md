@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Transfer (System) and Weight Functions, Green's Formula
 parent_type: CourseSection
+parent_uid: 7aec48b0-f081-8690-a2c7-6f43a870c1a3
 resourcetype: Document
 title: MIT18_03SCF11_s30_5text.pdf
 uid: 0d4d9005-3f2b-b24f-7551-c78e2d1b21a2

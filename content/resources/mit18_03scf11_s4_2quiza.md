@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: First Order Linear ODE's
 parent_type: CourseSection
+parent_uid: 0d78ffc3-e5f4-5556-afa4-95492cde6c39
 resourcetype: Document
 title: MIT18_03SCF11_s4_2quiza.pdf
 uid: d1f3306e-96b7-bc3f-71e8-8d00da1d311e

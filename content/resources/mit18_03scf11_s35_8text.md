@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Matrix Exponentials
 parent_type: CourseSection
+parent_uid: 740fe4ca-9f7f-5daf-cec7-50013536f3c9
 resourcetype: Document
 title: MIT18_03SCF11_s35_8text.pdf
 uid: 607e509b-4958-1173-97e1-4f00549bd48f

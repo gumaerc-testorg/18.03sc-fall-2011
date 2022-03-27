@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Basic DE's and Separable Equations
 parent_type: CourseSection
+parent_uid: 2f7fcab3-b55b-b888-a9aa-1c209df0024e
 resourcetype: Document
 title: '18.03SCF11 text: Part I Problems and Solutions'
 uid: 1cc8c004-00ab-0827-4ca4-9e6804407d05

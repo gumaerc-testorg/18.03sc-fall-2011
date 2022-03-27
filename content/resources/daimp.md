@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Geometric Methods
 parent_type: CourseSection
+parent_uid: 86c3ecfb-976d-d6c8-1796-f0e0e78ca617
 resourcetype: Other
 title: Daimp.jar
 uid: 7bb78737-ea8a-974b-53f1-c70edc21c8b0

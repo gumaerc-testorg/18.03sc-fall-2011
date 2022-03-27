@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linear vs. Nonlinear
 parent_type: CourseSection
+parent_uid: d47cf90f-d372-d21c-7812-510ff789a1e0
 resourcetype: Document
 title: MIT18_03SCF11_s11_1text.pdf
 uid: 9bd3f75b-7d91-c984-2dbf-a72924ed7b5d

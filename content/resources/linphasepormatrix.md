@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linear Systems
 parent_type: CourseSection
+parent_uid: 7704ad07-83f7-1720-a984-a52df1fbe360
 resourcetype: Other
 title: LinPhasePorMatrix.jar
 uid: 9b96870f-5f35-c991-e230-95143312a8ce

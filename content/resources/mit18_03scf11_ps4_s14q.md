@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exponential Response
 parent_type: CourseSection
+parent_uid: afa50382-4b4d-f214-67a3-8bdb6a9d0e27
 resourcetype: Document
 title: '18.03SCF11 text: Part I Problems'
 uid: bae8fb81-8b32-f461-d410-9539d364eb6d

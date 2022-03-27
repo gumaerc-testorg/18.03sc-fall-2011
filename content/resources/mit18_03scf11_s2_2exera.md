@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Geometric Methods
 parent_type: CourseSection
+parent_uid: 86c3ecfb-976d-d6c8-1796-f0e0e78ca617
 resourcetype: Document
 title: MIT18_03SCF11_s2_2exera.pdf
 uid: 24d04489-ba03-9a6a-2b7e-d04fd5ef6d17

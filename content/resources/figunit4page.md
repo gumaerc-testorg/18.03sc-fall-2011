@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Unit IV: First-order Systems'
 parent_type: CourseSection
+parent_uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 resourcetype: Image
 title: figunit4page.jpg
 uid: 1843360a-2a3e-1d5b-d992-7461af033724

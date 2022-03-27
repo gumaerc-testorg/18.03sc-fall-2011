@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linear Operators, Linear Time Invariance
 parent_type: CourseSection
+parent_uid: 1db21ff5-54d4-5578-7a77-bcaa06755e55
 resourcetype: Document
 title: '18.03SCF11 text: Example'
 uid: 3a93f22a-9335-f75a-c746-a02f761cb5b4

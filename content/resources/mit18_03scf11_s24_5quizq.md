@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Step and Delta Functions: Integrals and Generalized Derivatives'
 parent_type: CourseSection
+parent_uid: e1ac4e84-0236-d0ba-8b39-96546ae414c9
 resourcetype: Document
 title: MIT18_03SCF11_s24_5quizq.pdf
 uid: 87b6f80d-807c-95a1-02f0-a5d1a76a98e3

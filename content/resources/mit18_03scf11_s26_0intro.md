@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Convolution
 parent_type: CourseSection
+parent_uid: 4529e4db-06c2-1cf9-bf59-359267d96fa8
 resourcetype: Document
 title: MIT18_03SCF11_s26_0intro.pdf
 uid: 8fd0092b-2fd8-b8ac-bc1c-71d719f85f7e

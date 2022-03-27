@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Sinusoidal Functions
 parent_type: CourseSection
+parent_uid: a4e8634f-4a46-e6ae-1032-0d6aed6b9dff
 resourcetype: Document
 title: MIT18_03SCF11_s7_4quizc.pdf
 uid: e8c3f6b2-edc0-a8b6-e8e1-8a8956aa3958

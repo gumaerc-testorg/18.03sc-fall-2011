@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linear vs. Nonlinear
 parent_type: CourseSection
+parent_uid: d47cf90f-d372-d21c-7812-510ff789a1e0
 resourcetype: Document
 title: '18.03SCF11 text: Part II Problems'
 uid: 1ca70da1-1005-987e-e3ee-013e0b65a19b

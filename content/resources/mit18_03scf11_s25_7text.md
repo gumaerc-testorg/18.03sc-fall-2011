@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unit Step and Unit Impulse Response
 parent_type: CourseSection
+parent_uid: ae5a9153-e84a-4720-7bba-52a575f9d6d8
 resourcetype: Document
 title: '18.03SCF11 text: Second order Unit Impulse Response'
 uid: dc47b92b-968a-26da-6b7d-3b14036feb51

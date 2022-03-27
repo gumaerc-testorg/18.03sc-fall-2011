@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exam 2
 parent_type: CourseSection
+parent_uid: b56b22eb-c158-12b9-bbbe-8e63d86be91c
 resourcetype: Document
 title: MIT18_03SCF11_ex2.pdf
 uid: b36640f2-f155-eded-ec38-993c975c56da

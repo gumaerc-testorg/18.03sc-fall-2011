@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Undetermined Coefficients
 parent_type: CourseSection
+parent_uid: 997c993c-eb52-2721-308a-867f2c1e5ac3
 resourcetype: Document
 title: MIT18_03SCF11_s16_3text.pdf
 uid: cafe38b2-90e4-4d2c-b2a2-a8b303e41c8c

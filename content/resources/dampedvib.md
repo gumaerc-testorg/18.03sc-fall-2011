@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Damped Harmonic Oscillators
 parent_type: CourseSection
+parent_uid: fcc68029-d25e-a966-8f8d-74338ab4c023
 resourcetype: Other
 title: DampedVib.jar
 uid: ce252f97-35f1-2857-4620-e06d342f44c6

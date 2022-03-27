@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Exploration of the Convolution Accumulation Applet
 uid: 4a7d1a1e-1c2a-cc6c-2711-1d7f1b4a7f44
 video_files:

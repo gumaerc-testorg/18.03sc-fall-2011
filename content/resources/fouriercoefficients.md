@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Operations on Fourier Series
 parent_type: CourseSection
+parent_uid: ca45c161-8345-1041-6c66-419481c20e93
 resourcetype: Other
 title: FourierCoefficients.jar
 uid: f879453f-5d2d-d632-5f2a-f450958d232f

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Fourier Series: Basics'
 parent_type: CourseSection
+parent_uid: 074becc5-a6a6-3335-7815-bb2ca82e3a15
 resourcetype: Document
 title: '18.03SCF11 text: 18.03SC Practice Problems 21'
 uid: 3b1b8abd-50d9-b5e6-314f-c189d4032175

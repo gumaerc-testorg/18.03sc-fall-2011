@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Unit III: Fourier Series and Laplace Transform'
 parent_type: CourseSection
+parent_uid: 7c43a75f-68dd-f5b6-042a-c63be40a5296
 resourcetype: Image
 title: figunit3page.jpg
 uid: eb17af89-aa31-f940-4157-cb04de77386c

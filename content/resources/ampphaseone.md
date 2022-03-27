@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exponential Input; Gain and Phase Lag
 parent_type: CourseSection
+parent_uid: 4dc0b7d9-6276-143e-0c61-0888caefa273
 resourcetype: Other
 title: AmpPhaseOne.jar
 uid: 8f367d76-08fb-1e1e-bb17-165a6b3437bc

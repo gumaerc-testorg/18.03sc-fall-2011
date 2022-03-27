@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Numerical Methods
 parent_type: CourseSection
+parent_uid: 54d03b40-8dd2-7385-59db-03f6f1ebac22
 resourcetype: Document
 title: MIT18_03SCF11_s3_2exerq.pdf
 uid: e277c877-3161-04e9-236f-d6d16d5a58e3

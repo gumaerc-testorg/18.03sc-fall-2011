@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Poles, Amplitude Response, Connection to ERF
 parent_type: CourseSection
+parent_uid: 9caaa587-c1e7-c531-0115-9c1470153038
 resourcetype: Other
 title: Daimp3D.jar
 uid: ee49d3d6-5339-3def-3c2e-6ecfbbe6da44

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Constant Coefficient Second Order Homogeneous DE's
 uid: 83553ff2-fc96-2ca4-4eb4-bae84e8b619f
 video_files:

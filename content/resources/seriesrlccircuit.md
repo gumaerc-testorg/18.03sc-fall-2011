@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Applications: LRC Circuits'
 parent_type: CourseSection
+parent_uid: df3149e1-a7f5-a2cc-28e6-5b462671494e
 resourcetype: Other
 title: SeriesRLCCircuit.jar
 uid: c41cdf93-78ee-f0d5-49c9-c430e05dd70a

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exponential Input; Gain and Phase Lag
 parent_type: CourseSection
+parent_uid: 4dc0b7d9-6276-143e-0c61-0888caefa273
 resourcetype: Document
 title: '18.03SCF11 text: Part I Problems and Solutions'
 uid: e5cc135b-5093-bdca-cd78-53afe16548a7

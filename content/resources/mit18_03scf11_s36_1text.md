@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Nonlinear Systems
 parent_type: CourseSection
+parent_uid: 41d04e83-6507-882b-4b90-c8e3f524091e
 resourcetype: Document
 title: MIT18_03SCF11_s36_1text.pdf
 uid: 4cd6dfe9-f161-797a-dde4-092a27f76cd8

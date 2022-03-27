@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exponential Response
 parent_type: CourseSection
+parent_uid: afa50382-4b4d-f214-67a3-8bdb6a9d0e27
 resourcetype: Document
 title: '18.03SCF11 text: Sinusoidal Input'
 uid: 56aa808c-3a19-3675-f2c6-2ed8c6c836f9
