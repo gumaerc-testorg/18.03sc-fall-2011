@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Partial Fractions and Inverse Laplace Transform
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Partial Fractions and Laplace Inverse
 uid: 972d2913-9fb3-4de8-0fbf-bf9ee749be0b
 video_files:

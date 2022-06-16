@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2783'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Gain and Phase Lag
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2400'
 title: Stability of Constant Coefficient Second Order DE's
 uid: 4e5b240e-3ca6-3512-8bef-8eb13ea3e1e3
 video_files:

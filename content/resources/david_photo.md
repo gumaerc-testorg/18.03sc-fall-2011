@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-03sc-differential-equations-fall-2011/8f63f7d55fad8d0c7cf4fc7b1b5e4a12_David_Photo.jpg
+file: /courses/18-03sc-differential-equations-fall-2011/8f63f7d55fad8d0c7cf4fc7b1b5e4a12_David_Photo.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,4 +15,8 @@ parent_uid: 26908f85-4e2c-8f70-f855-103e2a50f442
 resourcetype: Image
 title: David_Photo.jpg
 uid: 8f63f7d5-5fad-8d0c-7cf4-fc7b1b5e4a12
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

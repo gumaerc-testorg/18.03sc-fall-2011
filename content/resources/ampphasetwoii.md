@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-03sc-differential-equations-fall-2011/e3080eaa901f52086a2b939774e5d179_AmpPhaseTwoII.jar
+file: /courses/18-03sc-differential-equations-fall-2011/e3080eaa901f52086a2b939774e5d179_AmpPhaseTwoII.jar
 file_type: application/java-archive
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,8 @@ parent_uid: 9b14d5f8-0e2c-13ac-a14c-8d291d554b14
 resourcetype: Other
 title: AmpPhaseTwoII.jar
 uid: e3080eaa-901f-5208-6a2b-939774e5d179
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides materials for a session on qualitative behavior
+  and phase portraits. Materials include course notes, lecture video clips, JavaScript
+  Mathlets,  practice problems with solutions, problem solving videos, and problem
+  sets with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit IV: First-order Systems'
@@ -7,14 +11,18 @@ parent_type: CourseSection
 parent_uid: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
 title: 'Qualitative Behavior: Phase Portraits'
 uid: 40ff2d12-b0e9-bf21-b16c-0be6303c5897
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-iv-first-order-systems/matrix-methods-eigenvalues-and-normal-modes) | [Next]({{< baseurl >}}/pages/unit-iv-first-order-systems/matrix-exponentials) »
+« {{% resource_link e32640ee-078f-3682-feef-7b3ae9a7e8c9 "Previous" %}} | {{% resource_link 740fe4ca-9f7f-5daf-cec7-50013536f3c9 "Next" %}} »
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![s34.jpg]({{< resource_file 38459a4a-424a-9310-0fb4-fd3618126004 >}})
+{{< resource 38459a4a-424a-9310-0fb4-fd3618126004 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -35,46 +43,46 @@ Session Activities
 
 Read the course notes:
 
-*   [Qualitive Behavior: Phase Portraits: Introduction (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s34_0intro)
+*   {{% resource_link 40835b11-ab91-d8dd-a674-152eeebc65cb "Qualitive Behavior: Phase Portraits: Introduction (PDF)" %}}
 
 Watch the lecture video clips:
 
-*   [Sketching Solutions]({{< baseurl >}}/resources/sketching-solutions)
-*   [More Sketching Solutions]({{< baseurl >}}/resources/more-sketching-solutions)
+*   {{% resource_link 1d3f0edd-4129-777f-63cd-415deb581f2d "Sketching Solutions" %}}
+*   {{% resource_link 38d5f36d-2ff4-32e0-54d4-47df2995d6d2 "More Sketching Solutions" %}}
 
 Read the course notes:
 
-*   [The Phase Plane (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s34_1text)
-*   [Sketching the Basic Linear Systems (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s34_2text)
-*   [Sketching More General Linear Systems (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s34_3text)
-*   [Summary (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s34_4text)
-*   [Trace-Determinant Diagram (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s34_5text)
-*   [Appendix: A Computer-Generated Portrait Gallery (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s34_6text)
+*   {{% resource_link d7d56395-c644-c497-08d3-425ee4b35753 "The Phase Plane (PDF)" %}}
+*   {{% resource_link f64bc0fd-fcaa-dca3-185b-c1cfa495e199 "Sketching the Basic Linear Systems (PDF)" %}}
+*   {{% resource_link 08423f49-d8fd-ba79-095d-985a38a6daba "Sketching More General Linear Systems (PDF)" %}}
+*   {{% resource_link 6c180f94-3053-17de-456f-cc67b9900ddd "Summary (PDF)" %}}
+*   {{% resource_link 06df29b1-358a-b10b-787e-32ae3c050ff1 "Trace-Determinant Diagram (PDF)" %}}
+*   {{% resource_link e653f108-a2f0-c6f3-be2c-3feaf7a5e13f "Appendix: A Computer-Generated Portrait Gallery (PDF)" %}}
 
 Learn from the Mathlet materials:
 
-*   Read about how to work with the [Linear Phase Portraits: Cursor Entry Applet (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s34_7appl)
+*   Read about how to work with the {{% resource_link a3406c64-41c0-d371-1a18-8af7f0dbfe4d "Linear Phase Portraits: Cursor Entry Applet (PDF)" %}}
 *   Work with the [Linear Phase Portraits: Cursor Entry Applet](/ans7870/18/18.03SC/linPhasePorCursor.html "Open in a new window.")
 
 Watch the problem solving videos:
 
-*   [Trace-Determinant Diagram]({{< baseurl >}}/resources/trace-determinant-diagram)
-*   [Phase Portraits]({{< baseurl >}}/resources/phase-portraits)
+*   {{% resource_link 3e850df9-b421-dfcf-be1c-8339d423fb8c "Trace-Determinant Diagram" %}}
+*   {{% resource_link 18dabd81-f6c3-c4bd-3901-cd4993d0cc68 "Phase Portraits" %}}
 
 Complete the practice problems:
 
-*   [Practice Problems 34 (PDF)]({{< baseurl >}}/resources/mit18_03scf11_rec_24s34)
-*   [Practice Problems 34 Solutions (PDF)]({{< baseurl >}}/resources/mit18_03scf11_rec_24s34_sol)
+*   {{% resource_link 6ba223e0-a76d-bfbc-6d99-9fe2f42087d9 "Practice Problems 34 (PDF)" %}}
+*   {{% resource_link 96f2dff6-d0c2-68e4-d081-f7fa5a9e4a02 "Practice Problems 34 Solutions (PDF)" %}}
 
 Check Yourself
 --------------
 
 Complete the problem sets:
 
-*   [Problem Set Part I Problems (PDF)]({{< baseurl >}}/resources/mit18_03scf11_ps9_s34q)
-*   [Problem Set Part I Solutions (PDF)]({{< baseurl >}}/resources/mit18_03scf11_ps9_s34s)
+*   {{% resource_link bb43c909-efc0-928f-52f9-a446dcda0891 "Problem Set Part I Problems (PDF)" %}}
+*   {{% resource_link 5598e755-7f9f-a1eb-4cb8-aa9cb3a2f8c3 "Problem Set Part I Solutions (PDF)" %}}
   
-*   [Problem Set Part II Problems (PDF)]({{< baseurl >}}/resources/mit18_03scf11_ps9_ii_s34q)
-*   [Problem Set Part II Solutions (PDF)]({{< baseurl >}}/resources/mit18_03scf11_ps9_ii_s34s)
+*   {{% resource_link 926dc24b-7f4c-38c1-831f-6392f6c62de0 "Problem Set Part II Problems (PDF)" %}}
+*   {{% resource_link d0925071-c74b-625b-5beb-63ef7cb0d41e "Problem Set Part II Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-iv-first-order-systems/matrix-methods-eigenvalues-and-normal-modes) | [Next]({{< baseurl >}}/pages/unit-iv-first-order-systems/matrix-exponentials) »
+« {{% resource_link e32640ee-078f-3682-feef-7b3ae9a7e8c9 "Previous" %}} | {{% resource_link 740fe4ca-9f7f-5daf-cec7-50013536f3c9 "Next" %}} »

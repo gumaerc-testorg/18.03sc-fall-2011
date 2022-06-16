@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a session on constant coefficient
+  linear equations with exponential input. Materials include course notes, a lecture
+  video clip, a problem solving video, and a problem set with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit II: Second Order Constant Coefficient Linear Equations'
@@ -7,9 +10,13 @@ parent_type: CourseSection
 parent_uid: 45e768c7-5eb2-5bba-1902-446ed5a94c09
 title: Pure Resonance
 uid: 04f0717c-e427-8b51-ee36-28a4b0f54b1f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-second-order-constant-coefficient-linear-equations/linear-operators-linear-time-invariance) | [Next]({{< baseurl >}}/pages/unit-ii-second-order-constant-coefficient-linear-equations/frequency-response-and-practical-resonance) »
+« {{% resource_link 1db21ff5-54d4-5578-7a77-bcaa06755e55 "Previous" %}} | {{% resource_link 9b14d5f8-0e2c-13ac-a14c-8d291d554b14 "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +24,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![s18.jpg]({{< resource_file c6653feb-82d4-a955-0a54-8e8a69d9d1ac >}})
+{{< resource c6653feb-82d4-a955-0a54-8e8a69d9d1ac >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -36,25 +43,25 @@ Session Activities
 
 Read the course notes:
 
-*   [Pure Resonance: Introduction (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s18_0intro)
-*   [The Exponential Response Formula: Resonant Case (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s18_1text)
-*   [Undamped Forced Systems (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s18_2text)
+*   {{% resource_link 3655af30-412e-2aeb-d0de-0067925e8eb1 "Pure Resonance: Introduction (PDF)" %}}
+*   {{% resource_link 50553b28-3ca7-133b-ddec-2911bae27ea1 "The Exponential Response Formula: Resonant Case (PDF)" %}}
+*   {{% resource_link a48abcf9-80f6-0d8b-8b31-ccf8cc2bba4a "Undamped Forced Systems (PDF)" %}}
 
 Watch the lecture video clips:
 
-*   [Resonance in the Undamped System]({{< baseurl >}}/resources/resonance-in-the-undamped-system)
-*   [Reconciling the Resonant and Non-resonant Solutions]({{< baseurl >}}/resources/reconciling-the-resonant-and-non-resonant-solutions)
+*   {{% resource_link 16aa8f10-eee9-d1b4-6dae-818c7e5c68c1 "Resonance in the Undamped System" %}}
+*   {{% resource_link ed5716e1-182d-90db-4fc4-dc2b1ddef5c9 "Reconciling the Resonant and Non-resonant Solutions" %}}
 
 Watch the problem solving video:
 
-*   [Pure Resonance]({{< baseurl >}}/resources/pure-resonance)
+*   {{% resource_link 30ffe636-fc59-6777-1402-738c76e06359 "Pure Resonance" %}}
 
 Check Yourself
 --------------
 
 Complete the problem set:
 
-*   [Problem Set Part I Problems (PDF)]({{< baseurl >}}/resources/mit18_03scf11_new_s18q)
-*   [Problem Set Part I Solutions (PDF)]({{< baseurl >}}/resources/mit18_03scf11_new_s18s)
+*   {{% resource_link eb21e286-9d6f-33fe-8ff5-c4ce9b0e3a0d "Problem Set Part I Problems (PDF)" %}}
+*   {{% resource_link f27eda5c-2824-80d6-5269-507d84371ef9 "Problem Set Part I Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-second-order-constant-coefficient-linear-equations/linear-operators-linear-time-invariance) | [Next]({{< baseurl >}}/pages/unit-ii-second-order-constant-coefficient-linear-equations/frequency-response-and-practical-resonance) »
+« {{% resource_link 1db21ff5-54d4-5578-7a77-bcaa06755e55 "Previous" %}} | {{% resource_link 9b14d5f8-0e2c-13ac-a14c-8d291d554b14 "Next" %}} »

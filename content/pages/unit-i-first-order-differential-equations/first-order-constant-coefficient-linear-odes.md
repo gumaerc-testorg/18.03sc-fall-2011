@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a session on first order constant
+  coefficient linear ordinary differential equations. Materials include course notes,
+  lecture video clips, and a problem solving video.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit I: First Order Differential Equations'
@@ -7,9 +10,13 @@ parent_type: CourseSection
 parent_uid: caf00851-e89b-da65-c746-04b48066d4ec
 title: First Order Constant Coefficient Linear ODE's
 uid: 3689226a-36ca-8c2d-8d7f-34ad74678477
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-i-first-order-differential-equations/sinusoidal-functions) | [Next]({{< baseurl >}}/pages/unit-i-first-order-differential-equations/exponential-input-gain-and-phase-lag) »
+« {{% resource_link a4e8634f-4a46-e6ae-1032-0d6aed6b9dff "Previous" %}} | {{% resource_link 4dc0b7d9-6276-143e-0c61-0888caefa273 "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +24,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![s8.jpg]({{< resource_file d668d494-8a6c-7852-53b0-2f400e12e928 >}})
+{{< resource d668d494-8a6c-7852-53b0-2f400e12e928 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -38,28 +45,28 @@ Session Activities
 
 Read the course notes:
 
-*   [First Order Constant Coefficient Linear ODE's: Introduction (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s8_0intro)
+*   {{% resource_link 71c1768e-101c-70b7-6797-281d00931d6d "First Order Constant Coefficient Linear ODE's: Introduction (PDF)" %}}
 
 Watch the lecture video clip:
 
-*   [Solutions to Constant Coefficient Linear First Order ODE's]({{< baseurl >}}/resources/solutions-to-constant-coefficient-linear-first-order-odes)
+*   {{% resource_link d2fe4fb9-1923-9c3f-24cb-6f31f984b524 "Solutions to Constant Coefficient Linear First Order ODE's" %}}
 
 Read the course notes:
 
-*   [Solution to the Constant Coefficient First Order Equation (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s8_1text)
+*   {{% resource_link 7a308bc7-18d3-01e3-519d-4c405b574afe "Solution to the Constant Coefficient First Order Equation (PDF)" %}}
 
 Watch the lecture video clips:
 
-*   [Examples of Constant Coefficient Linear First Order ODE's]({{< baseurl >}}/resources/examples-of-constant-coefficient-linear-first-order-odes)
-*   [More Examples of Constant Coefficient Equations]({{< baseurl >}}/resources/more-examples-of-constant-coefficient-equations)
+*   {{% resource_link a7f1c59f-4107-23ca-77df-78b23fa1a389 "Examples of Constant Coefficient Linear First Order ODE's" %}}
+*   {{% resource_link ce128c4a-c750-4759-36d5-4adc144eaa22 "More Examples of Constant Coefficient Equations" %}}
 
 Read the course notes:
 
-*   [Examples of Constant Coefficient First Order Equations (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s8_2text)
-*   [Response to Discontinuous Input (PDF)]({{< baseurl >}}/resources/mit18_03scf11_s8_3text)
+*   {{% resource_link 405eab63-15ca-cca0-40f2-5ed7293af29f "Examples of Constant Coefficient First Order Equations (PDF)" %}}
+*   {{% resource_link 9c1fa19e-2cb4-5c14-71de-1f71aac823d7 "Response to Discontinuous Input (PDF)" %}}
 
 Watch the problem solving video:
 
-*   [First Order Constant Coefficient Linear ODE's]({{< baseurl >}}/resources/first-order-constant-coefficient-linear-odes)
+*   {{% resource_link add7e683-d019-3f28-0cf4-eee04173f545 "First Order Constant Coefficient Linear ODE's" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-i-first-order-differential-equations/sinusoidal-functions) | [Next]({{< baseurl >}}/pages/unit-i-first-order-differential-equations/exponential-input-gain-and-phase-lag) »
+« {{% resource_link a4e8634f-4a46-e6ae-1032-0d6aed6b9dff "Previous" %}} | {{% resource_link 4dc0b7d9-6276-143e-0c61-0888caefa273 "Next" %}} »

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to step and delta functions.
-file: /media/courses/18-03sc-differential-equations-fall-2011/610f40988fe869df2355c14a0e403c88_MIT18_03SCF11_ps6_II_s24q.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/610f40988fe869df2355c14a0e403c88_MIT18_03SCF11_ps6_II_s24q.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,10 @@ parent_uid: e1ac4e84-0236-d0ba-8b39-96546ae414c9
 resourcetype: Document
 title: MIT18_03SCF11_ps6_II_s24q.pdf
 uid: 610f4098-8fe8-69df-2355-c14a0e403c88
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This resource contains problem statements related to step and delta functions.
+

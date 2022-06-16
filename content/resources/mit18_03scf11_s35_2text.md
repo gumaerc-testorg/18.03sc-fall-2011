@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to the existence and uniqueness
   theorem for linear systems.
-file: /media/courses/18-03sc-differential-equations-fall-2011/e561adbeb379370e855363c7a9a22db8_MIT18_03SCF11_s35_2text.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/e561adbeb379370e855363c7a9a22db8_MIT18_03SCF11_s35_2text.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,4 +12,10 @@ parent_uid: 740fe4ca-9f7f-5daf-cec7-50013536f3c9
 resourcetype: Document
 title: MIT18_03SCF11_s35_2text.pdf
 uid: e561adbe-b379-370e-8553-63c7a9a22db8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This resource contains information related to the existence and uniqueness theorem for linear systems.
+

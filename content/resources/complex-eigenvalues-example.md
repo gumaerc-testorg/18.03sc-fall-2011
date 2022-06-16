@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2797'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Matrix Methods: Eigenvalues and Normal Modes'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2091'
 title: 'Complex Eigenvalues: Example'
 uid: 56105bd8-ee92-4dc6-dffb-dd2c97c1210b
 video_files:

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2415'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Limitations of the Linear: Limit Cycles and Chaos'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1113'
 title: Non-existence of Limit Cycles
 uid: ccf9e0b6-4c45-c8dc-449a-c9e0f0c2f873
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to systems: input and response.'
-file: /media/courses/18-03sc-differential-equations-fall-2011/1096f3ea18dbd2458015154f03df2796_MIT18_03SCF11_s4_4text.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/1096f3ea18dbd2458015154f03df2796_MIT18_03SCF11_s4_4text.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,10 @@ parent_uid: 0d78ffc3-e5f4-5556-afa4-95492cde6c39
 resourcetype: Document
 title: MIT18_03SCF11_s4_4text.pdf
 uid: 1096f3ea-18db-d245-8015-154f03df2796
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This resource contains information related to systems: input and response.
+

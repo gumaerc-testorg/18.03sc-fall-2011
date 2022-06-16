@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2746'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: First Order Autonomous Differential Equations
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2162'
 title: 'Example: Logistic Model with Harvesting'
 uid: 7e15975d-7953-4ba7-a77e-c9bb342b50f6
 video_files:

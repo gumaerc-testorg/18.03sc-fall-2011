@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to chaos.
-file: /media/courses/18-03sc-differential-equations-fall-2011/7f266a36841326e92035f555c26eacf6_MIT18_03SCF11_s38_5text.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/7f266a36841326e92035f555c26eacf6_MIT18_03SCF11_s38_5text.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,10 @@ parent_uid: d738c767-d051-1230-6ae5-07fea563425d
 resourcetype: Document
 title: MIT18_03SCF11_s38_5text.pdf
 uid: 7f266a36-8413-26e9-2035-f555c26eacf6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This resource contains information related to chaos.
+

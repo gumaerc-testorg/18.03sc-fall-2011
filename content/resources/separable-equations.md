@@ -11,7 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Separable Equations
 uid: d6e76cca-e203-a9e6-460b-2988df952aa8
 video_files:

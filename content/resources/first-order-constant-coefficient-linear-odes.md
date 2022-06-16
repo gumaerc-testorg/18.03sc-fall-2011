@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: First Order Constant Coefficient Linear ODE's
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: First Order Constant Coefficient Linear ODE's
 uid: add7e683-d019-3f28-0cf4-eee04173f545
 video_files:

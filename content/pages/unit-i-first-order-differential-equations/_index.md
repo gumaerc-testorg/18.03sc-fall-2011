@@ -1,14 +1,20 @@
 ---
 content_type: page
+description: This section contains a unit on ordinary differential equations (ODE's)
+  involving only the first derivative.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit I: First Order Differential Equations'
 uid: caf00851-e89b-da65-c746-04b48066d4ec
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/syllabus/meet-the-tas) | [Next]({{< baseurl >}}/pages/unit-i-first-order-differential-equations/conventions-and-preliminary-material) »
+« {{% resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "Previous" %}} | {{% resource_link 1160d0a4-4a5b-3600-2e9a-a0fdfe6fa6b8 "Next" %}} »
 
-![figunit1page.jpg]({{< resource_file 39a4708b-3543-c56a-61fc-aa4cc29788fc >}})
+{{< resource 39a4708b-3543-c56a-61fc-aa4cc29788fc >}}
 
 Integral curves and isoclines. Modeled on the MIT mathlet _Isoclines_.
 
@@ -20,4 +26,4 @@ The first session covers some of the conventions and prerequisites for the cours
 
 A large part of this unit (and this course) will be spent on linear ODE's. These are fundamental to the understanding of all ODE's and among the most tractable.
 
-« [Previous]({{< baseurl >}}/pages/syllabus/meet-the-tas) | [Next]({{< baseurl >}}/pages/unit-i-first-order-differential-equations/conventions-and-preliminary-material) »
+« {{% resource_link 26908f85-4e2c-8f70-f855-103e2a50f442 "Previous" %}} | {{% resource_link 1160d0a4-4a5b-3600-2e9a-a0fdfe6fa6b8 "Next" %}} »

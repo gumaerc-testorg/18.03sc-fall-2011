@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2875'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Linear Operators, Linear Time Invariance
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1492'
 title: Solving DE's with Exponential Input when p(a) = 0
 uid: 1147d769-430e-aaba-5c27-216c49bfbc35
 video_files:

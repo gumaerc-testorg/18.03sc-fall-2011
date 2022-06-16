@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to sinusoidal functions.
-file: /media/courses/18-03sc-differential-equations-fall-2011/a4884a62f17b0e3f747bcb6dcb28f47a_MIT18_03SCF11_s7_4quizq.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/a4884a62f17b0e3f747bcb6dcb28f47a_MIT18_03SCF11_s7_4quizq.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,10 @@ parent_uid: a4e8634f-4a46-e6ae-1032-0d6aed6b9dff
 resourcetype: Document
 title: MIT18_03SCF11_s7_4quizq.pdf
 uid: a4884a62-f17b-0e3f-747b-cb6dcb28f47a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This resource contains problem statements related to sinusoidal functions.
+

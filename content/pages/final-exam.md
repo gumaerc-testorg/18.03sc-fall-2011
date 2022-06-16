@@ -1,17 +1,23 @@
 ---
 content_type: page
+description: This section provides a final exam on differential equations, exam solutions,
+  and a practice exam.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Final Exam
 uid: 9f0caa10-7141-eae0-f9cf-534cf2596c02
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-iv-first-order-systems/limitations-of-the-linear-limit-cycles-and-chaos)
+« {{% resource_link d738c767-d051-1230-6ae5-07fea563425d "Previous" %}}
 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![final.jpg]({{< resource_file 349704a0-23c2-1bb2-c64a-db7c3a0938c9 >}})
+{{< resource 349704a0-23c2-1bb2-c64a-db7c3a0938c9 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -34,10 +40,10 @@ Check Yourself
 
 Complete the final exam:
 
-*   [Practice Final Exam (PDF)]({{< baseurl >}}/resources/mit18_03scf11_prfinal)
-*   [Practice Final Exam Solutions (PDF)]({{< baseurl >}}/resources/mit18_03scf11_prfinals)
+*   {{% resource_link 7a97822f-443c-079f-10d1-271dc79fcd6b "Practice Final Exam (PDF)" %}}
+*   {{% resource_link ba5cbe0e-46b2-eee1-6d3d-786ed2214f53 "Practice Final Exam Solutions (PDF)" %}}
   
-*   [Final Exam (PDF)]({{< baseurl >}}/resources/mit18_03scf11_final)
-*   [Final Exam Solutions (PDF)]({{< baseurl >}}/resources/mit18_03scf11_finals)
+*   {{% resource_link e445f254-c022-b3ec-9308-5b24bfe644f2 "Final Exam (PDF)" %}}
+*   {{% resource_link 32c874bb-3b32-cec6-038d-bb1ec6ca61a9 "Final Exam Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-iv-first-order-systems/limitations-of-the-linear-limit-cycles-and-chaos)
+« {{% resource_link d738c767-d051-1230-6ae5-07fea563425d "Previous" %}}
