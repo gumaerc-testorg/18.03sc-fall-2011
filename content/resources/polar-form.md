@@ -1,15 +1,26 @@
 ---
 content_type: resource
 description: ''
+end_time: '1800'
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Complex Arithmetic and Exponentials
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: '1438'
 title: Polar Form
 uid: e96e4e56-5ee0-82c9-27eb-0dad1b11cbf9
 video_files:
   archive_url: http://www.archive.org/download/MIT18.03S06/mit-ocw-18.03-lec6-19feb2003-220k_512kb.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-03sc-differential-equations-fall-2011/fc60bba9da93570fb739a3caf456d7ff_EQJBp6Ym-6A.vtt
+  video_captions_file: /courses/18-03sc-differential-equations-fall-2011/fc60bba9da93570fb739a3caf456d7ff_EQJBp6Ym-6A.vtt
   video_thumbnail_file: https://img.youtube.com/vi/EQJBp6Ym-6A/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-03sc-differential-equations-fall-2011/48607ba270aa0a9b7a313aec7f6c58de_EQJBp6Ym-6A.pdf
+  video_transcript_file: /courses/18-03sc-differential-equations-fall-2011/48607ba270aa0a9b7a313aec7f6c58de_EQJBp6Ym-6A.pdf
 video_metadata:
   youtube_id: EQJBp6Ym-6A
 ---

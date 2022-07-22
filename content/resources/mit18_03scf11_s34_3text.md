@@ -2,9 +2,20 @@
 content_type: resource
 description: This resource contains information related to sketching more general
   linear systems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-03sc-differential-equations-fall-2011/08423f49d8fdba79095d985a38a6daba_MIT18_03SCF11_s34_3text.pdf
+file: /courses/18-03sc-differential-equations-fall-2011/08423f49d8fdba79095d985a38a6daba_MIT18_03SCF11_s34_3text.pdf
 file_type: application/pdf
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+parent_title: 'Qualitative Behavior: Phase Portraits'
+parent_type: CourseSection
+parent_uid: 40ff2d12-b0e9-bf21-b16c-0be6303c5897
 resourcetype: Document
 title: MIT18_03SCF11_s34_3text.pdf
 uid: 08423f49-d8fd-ba79-095d-985a38a6daba
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This resource contains information related to sketching more general linear systems.
