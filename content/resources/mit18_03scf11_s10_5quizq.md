@@ -5,6 +5,7 @@ description: This resource contains problem statements related to Can Solutions 
 file: /courses/18-03sc-differential-equations-fall-2011/ad88411ac106325e40689defd29b1705_MIT18_03SCF11_s10_5quizq.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: First Order Autonomous Differential Equations
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to Can Solutions have a Local Maximum?
-

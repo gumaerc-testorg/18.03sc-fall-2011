@@ -5,6 +5,7 @@ description: This resource contains choices for the problem statements related t
 file: /courses/18-03sc-differential-equations-fall-2011/01404df2f262fe02c4618b18e1ebdd34_MIT18_03SCF11_s5_3quizc.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Solution by Integrating Factors
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains choices for the problem statements related to units.
-

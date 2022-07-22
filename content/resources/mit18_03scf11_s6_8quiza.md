@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: /courses/18-03sc-differential-equations-fall-2011/a6a0a64c55895f2b5224ea059839d827_MIT18_03SCF11_s6_8quiza.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Complex Arithmetic and Exponentials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions for the problem statements related to complex exponentials.
-

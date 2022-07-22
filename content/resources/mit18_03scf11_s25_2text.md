@@ -4,6 +4,7 @@ description: This resource contains information related to first order unit step
 file: /courses/18-03sc-differential-equations-fall-2011/f44098dd2cb4c02e88f4c08f76b7bf75_MIT18_03SCF11_s25_2text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Unit Step and Unit Impulse Response
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to first order unit step response.
-

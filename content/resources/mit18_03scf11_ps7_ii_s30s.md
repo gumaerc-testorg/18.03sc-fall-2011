@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: /courses/18-03sc-differential-equations-fall-2011/5c82cba840d589fc795684421cdc5e26_MIT18_03SCF11_ps7_II_s30s.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Transfer (System) and Weight Functions, Green's Formula
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions for the problem statements related to transfer functions.
-

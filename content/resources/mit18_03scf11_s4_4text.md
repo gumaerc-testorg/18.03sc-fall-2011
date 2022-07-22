@@ -4,6 +4,7 @@ description: 'This resource contains information related to systems: input and r
 file: /courses/18-03sc-differential-equations-fall-2011/1096f3ea18dbd2458015154f03df2796_MIT18_03SCF11_s4_4text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: First Order Linear ODE's
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to systems: input and response.
-

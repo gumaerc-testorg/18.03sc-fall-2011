@@ -4,6 +4,7 @@ description: This resource contains problem statements related to linear ODE's.
 file: /courses/18-03sc-differential-equations-fall-2011/054e9a7b5c76d77c0c2e84ab8679952e_MIT18_03SCF11_rec_03s4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: First Order Linear ODE's
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to linear ODE's.
-

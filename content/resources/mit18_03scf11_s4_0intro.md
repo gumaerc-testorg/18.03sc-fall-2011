@@ -4,6 +4,7 @@ description: This resource contains information related to first order linear OD
 file: /courses/18-03sc-differential-equations-fall-2011/e110d0cd09a99a105a8be84933819649_MIT18_03SCF11_s4_0intro.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: First Order Linear ODE's
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to first order linear ODE's.
-

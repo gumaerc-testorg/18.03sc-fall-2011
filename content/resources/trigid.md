@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-03sc-differential-equations-fall-2011/4cf1b75ec8dd26524207c461e3f867c8_TrigId.jar
 file_type: application/java-archive
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Sinusoidal Functions
 parent_type: CourseSection

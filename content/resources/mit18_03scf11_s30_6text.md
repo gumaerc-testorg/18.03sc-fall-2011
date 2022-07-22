@@ -4,6 +4,7 @@ description: This resource contains information related to block diagrams.
 file: /courses/18-03sc-differential-equations-fall-2011/0813b8fa804663860899846a211c5537_MIT18_03SCF11_s30_6text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Transfer (System) and Weight Functions, Green's Formula
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to block diagrams.
-

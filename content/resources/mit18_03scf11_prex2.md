@@ -4,6 +4,7 @@ description: This resource contains practice problem statements for exam 2.
 file: /courses/18-03sc-differential-equations-fall-2011/d4a24ca88c851a0c9283889d161883ea_MIT18_03SCF11_prex2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exam 2
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains practice problem statements for exam 2.
-

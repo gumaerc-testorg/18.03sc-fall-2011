@@ -5,6 +5,7 @@ description: This resource contains information related to precise definition of
 file: /courses/18-03sc-differential-equations-fall-2011/93bc4d1fe9fadd1b4e78b90566cdc1e7_MIT18_03SCF11_s29_2text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Laplace Transform: Solving Initial Value Problems'
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to precise definition of laplace inverse.
-

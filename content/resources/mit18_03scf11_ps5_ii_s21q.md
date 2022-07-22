@@ -4,6 +4,7 @@ description: This resource contains problem statements related to fourier series
 file: /courses/18-03sc-differential-equations-fall-2011/e3debeb103ffd6ba0fd537a71dd49663_MIT18_03SCF11_ps5_II_s21q.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Fourier Series: Basics'
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to fourier series.
-

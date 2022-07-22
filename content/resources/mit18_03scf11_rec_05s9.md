@@ -4,6 +4,7 @@ description: This resource contains problem statements related to exponential in
 file: /courses/18-03sc-differential-equations-fall-2011/feecf692e6a507b004dba34b20ccd847_MIT18_03SCF11_rec_05s9.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exponential Input; Gain and Phase Lag
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to exponential input.
-

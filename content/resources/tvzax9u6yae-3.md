@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-03sc-differential-equations-fall-2011/ea8b9b2e52b91435bac26326eeef4e53_tVzaX9u6YAE.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

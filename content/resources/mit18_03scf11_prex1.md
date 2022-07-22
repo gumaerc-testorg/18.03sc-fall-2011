@@ -4,6 +4,7 @@ description: This resource contains practice exam 1 and solutions.
 file: /courses/18-03sc-differential-equations-fall-2011/80399ae4acee749eeb8b95238219ed01_MIT18_03SCF11_prex1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exam 1
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains practice exam 1 and solutions.
-

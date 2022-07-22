@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: /courses/18-03sc-differential-equations-fall-2011/f29f98789621bee918c013334427639a_MIT18_03SCF11_rec_10s16_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Undetermined Coefficients
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions for the problem statements related to undetermined coefficients.
-

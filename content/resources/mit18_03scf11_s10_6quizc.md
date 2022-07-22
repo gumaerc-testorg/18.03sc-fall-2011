@@ -4,6 +4,7 @@ description: This resource contains choices for the problem statement inflection
 file: /courses/18-03sc-differential-equations-fall-2011/e7f2e912d25e3ce7663ecd3f9f3fa4a3_MIT18_03SCF11_s10_6quizc.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: First Order Autonomous Differential Equations
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains choices for the problem statement inflection points.
-

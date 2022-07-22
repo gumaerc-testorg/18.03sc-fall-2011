@@ -5,6 +5,7 @@ description: This resource contains information related to response to discontin
 file: /courses/18-03sc-differential-equations-fall-2011/9c1fa19e2cb45c1471de1f71aac823d7_MIT18_03SCF11_s8_3text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: First Order Constant Coefficient Linear ODE's
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to response to discontinuous input.
-

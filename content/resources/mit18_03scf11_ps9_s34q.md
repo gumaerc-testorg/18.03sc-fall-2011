@@ -4,6 +4,7 @@ description: This resource contains problem statements related to phase portrait
 file: /courses/18-03sc-differential-equations-fall-2011/bb43c909efc0928f52f9a446dcda0891_MIT18_03SCF11_ps9_s34q.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Qualitative Behavior: Phase Portraits'
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to phase portraits.
-

@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: /courses/18-03sc-differential-equations-fall-2011/7169e738b09ff53ad07c98b34c1673f7_MIT18_03SCF11_ps6_II_s23s.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: ODE's with Periodic Input, Resonance
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions for the problem statements related to periodic input.
-

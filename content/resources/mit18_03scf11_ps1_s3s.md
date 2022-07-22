@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: /courses/18-03sc-differential-equations-fall-2011/54f720d3d59620226d218553a346a4f7_MIT18_03SCF11_ps1_s3s.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Numerical Methods
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions for the problem statements related to numerical methods.
-

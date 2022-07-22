@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-03sc-differential-equations-fall-2011/250ae7081d83a6e94258bb1c2687d7c9_LinPhasePorCursor.jar
 file_type: application/java-archive
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Qualitative Behavior: Phase Portraits'
 parent_type: CourseSection

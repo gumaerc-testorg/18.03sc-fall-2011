@@ -4,6 +4,7 @@ description: This resource contains information related to exponential response.
 file: /courses/18-03sc-differential-equations-fall-2011/9b630c3edc2f03d5819d6c8835678e5a_MIT18_03SCF11_s14_0intro.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exponential Response
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to exponential response.
-

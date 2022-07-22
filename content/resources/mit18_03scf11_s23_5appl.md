@@ -5,6 +5,7 @@ description: 'This resource contains information related to applet exploration: 
 file: /courses/18-03sc-differential-equations-fall-2011/15f4ca73c3369b5c3633d181e1685625_MIT18_03SCF11_s23_5appl.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: ODE's with Periodic Input, Resonance
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to applet exploration: fourier coefficients with sound.
-

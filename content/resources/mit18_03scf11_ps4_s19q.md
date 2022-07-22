@@ -5,6 +5,7 @@ description: This resource contains practice problem statements related to frequ
 file: /courses/18-03sc-differential-equations-fall-2011/801ef25fcebec9a95dabc955ff843f76_MIT18_03SCF11_ps4_s19q.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Frequency Response and Practical Resonance
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains practice problem statements related to frequency response.
-

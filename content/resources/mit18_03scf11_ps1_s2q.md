@@ -5,6 +5,7 @@ description: This resource contains solutions to the problem statements related 
 file: /courses/18-03sc-differential-equations-fall-2011/bc97c6f6a9ab875e96cfceef9f69099c_MIT18_03SCF11_ps1_s2q.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Geometric Methods
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions to the problem statements related to geometric methods.
-

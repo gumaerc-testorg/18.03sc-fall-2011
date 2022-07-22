@@ -4,6 +4,7 @@ description: This resource contains information related to finding n-th roots.
 file: /courses/18-03sc-differential-equations-fall-2011/76e264f8245dae2a02ce54ecb3e135af_MIT18_03SCF11_s6_9text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Complex Arithmetic and Exponentials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to finding n-th roots.
-

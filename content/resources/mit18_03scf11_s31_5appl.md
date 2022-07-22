@@ -5,6 +5,7 @@ description: 'This resource contains information related to applet exploration: 
 file: /courses/18-03sc-differential-equations-fall-2011/a302fcccb14ae5b187325f413b736ebf_MIT18_03SCF11_s31_5appl.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Poles, Amplitude Response, Connection to ERF
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to applet exploration: amplitude response pole diagram.
-

@@ -5,6 +5,7 @@ description: This resource contains solutions for the practice problem statement
 file: /courses/18-03sc-differential-equations-fall-2011/4c10b99470bf48023b94537482dc742b_MIT18_03SCF11_ps4_s14s.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exponential Response
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions for the practice problem statements related to exponential response.
-

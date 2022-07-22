@@ -5,6 +5,7 @@ description: This resource contains information related to examples of constant 
 file: /courses/18-03sc-differential-equations-fall-2011/405eab6315cacca040f25ed7293af29f_MIT18_03SCF11_s8_2text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: First Order Constant Coefficient Linear ODE's
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to examples of constant coefficient first order equations.
-

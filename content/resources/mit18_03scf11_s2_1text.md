@@ -5,6 +5,7 @@ description: This resource contains information related to direction fields, iso
 file: /courses/18-03sc-differential-equations-fall-2011/0eccec5385a788c4359bde0ded7b4227_MIT18_03SCF11_s2_1text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Geometric Methods
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to direction fields, isoclines, and integral curves.
-

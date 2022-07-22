@@ -4,6 +4,7 @@ description: This resource contains exam 1.
 file: /courses/18-03sc-differential-equations-fall-2011/4d2cb21704c671f12755a290e84a01be_MIT18_03SCF11_ex1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exam 1
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains exam 1.
-

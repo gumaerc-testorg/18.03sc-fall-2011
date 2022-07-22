@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements using s
 file: /courses/18-03sc-differential-equations-fall-2011/e029830f340f35544a5013d674766904_MIT18_03SCF11_s24_2quiza.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Step and Delta Functions: Integrals and Generalized Derivatives'
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions for the problem statements using step functions as switches.
-

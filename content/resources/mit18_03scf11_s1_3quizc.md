@@ -4,6 +4,7 @@ description: This resource contains problem statements related to separation of 
 file: /courses/18-03sc-differential-equations-fall-2011/bbc05aa2e90cf89b5082107960ac52ce_MIT18_03SCF11_s1_3quizc.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Basic DE's and Separable Equations
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to separation of variables.
-

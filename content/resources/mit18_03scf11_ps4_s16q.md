@@ -4,6 +4,7 @@ description: This resource contains problem statements related to undetermined c
 file: /courses/18-03sc-differential-equations-fall-2011/784a7e6861c1f641eae587cf68636edc_MIT18_03SCF11_ps4_s16q.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Undetermined Coefficients
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to undetermined coefficients.
-

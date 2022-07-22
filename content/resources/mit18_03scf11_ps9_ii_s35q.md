@@ -4,6 +4,7 @@ description: This resource contains problem statements related to matrix exponen
 file: /courses/18-03sc-differential-equations-fall-2011/14ba4ece55d96884c1235fd8b404fb2d_MIT18_03SCF11_ps9_II_s35q.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Matrix Exponentials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to matrix exponentials.
-

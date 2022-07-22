@@ -4,6 +4,7 @@ description: This resource contains information related to differential equation
 file: /courses/18-03sc-differential-equations-fall-2011/5d563a4b017625de32789ce4c1e166fd_MIT18_03SCF11_s0_4text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Conventions and Preliminary Material
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to differential equations.
-

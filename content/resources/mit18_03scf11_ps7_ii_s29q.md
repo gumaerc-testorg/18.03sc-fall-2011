@@ -4,6 +4,7 @@ description: This resource contains problem statements related to solving IVP's.
 file: /courses/18-03sc-differential-equations-fall-2011/966fb1340a4cd205edab6620f9ce6784_MIT18_03SCF11_ps7_II_s29q.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Laplace Transform: Solving Initial Value Problems'
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to solving IVP's.
-

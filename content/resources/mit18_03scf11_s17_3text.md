@@ -4,6 +4,7 @@ description: This resource contains information related to operator rules.
 file: /courses/18-03sc-differential-equations-fall-2011/8df968a16a07334a7d14dadf2540e647_MIT18_03SCF11_s17_3text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Linear Operators, Linear Time Invariance
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to operator rules.
-

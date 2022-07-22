@@ -5,6 +5,7 @@ description: This resource contains problem statements related to solutions to p
 file: /courses/18-03sc-differential-equations-fall-2011/0561ccd4a7fb8d9b97af6c3297af259a_MIT18_03SCF11_s16_4quizq.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Undetermined Coefficients
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to solutions to polynomial input.
-

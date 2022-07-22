@@ -5,6 +5,7 @@ description: This resource contains information related to the bordeline geometr
 file: /courses/18-03sc-differential-equations-fall-2011/e3a2aaca5cca8fb85cb48631609351d3_MIT18_03SCF11_s37_3text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Linearization Near Critical Points
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to the bordeline geometric types.
-

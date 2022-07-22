@@ -4,6 +4,7 @@ description: This resource contains information related to operations on fourier
 file: /courses/18-03sc-differential-equations-fall-2011/3ba2a2bb9c3a39da8ca1ed3aea398448_MIT18_03SCF11_s22_0intro.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Operations on Fourier Series
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to operations on fourier series.
-

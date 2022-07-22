@@ -4,6 +4,7 @@ description: This resource contains information related to quiz for ODE.
 file: /courses/18-03sc-differential-equations-fall-2011/286ef3a27dab93a36ee9a87e58a1070d_MIT18_03SCF11_s0_5quizc.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Conventions and Preliminary Material
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to quiz for ODE.
-

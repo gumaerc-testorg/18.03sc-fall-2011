@@ -4,6 +4,7 @@ description: This resource contains information related to separation of variabl
 file: /courses/18-03sc-differential-equations-fall-2011/7a374b4cd00ee3c75f49a85f451d776a_MIT18_03SCF11_s1_2text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Basic DE's and Separable Equations
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to separation of variables.
-

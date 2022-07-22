@@ -4,6 +4,7 @@ description: This resource contains information related to gain and phase log.
 file: /courses/18-03sc-differential-equations-fall-2011/f3e3f4a1ee718e69df68f65ff983d4c2_MIT18_03SCF11_s15_0intro.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Gain and Phase Lag
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to gain and phase log.
-

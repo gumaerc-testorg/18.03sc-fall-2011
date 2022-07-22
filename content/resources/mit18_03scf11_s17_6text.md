@@ -5,6 +5,7 @@ description: This resource contains information related to proof of the generali
 file: /courses/18-03sc-differential-equations-fall-2011/126a06d9ea3f580dfb26d5b17aa4832b_MIT18_03SCF11_s17_6text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Linear Operators, Linear Time Invariance
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to proof of the generalized exponential response formula.
-

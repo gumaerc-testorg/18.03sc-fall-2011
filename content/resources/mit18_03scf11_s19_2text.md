@@ -5,6 +5,7 @@ description: This resource contains information related to frequency response an
 file: /courses/18-03sc-differential-equations-fall-2011/4f6ba441e3d09f9e87b78dedb89fb1dc_MIT18_03SCF11_s19_2text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Frequency Response and Practical Resonance
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to frequency response and practical resonance.
-

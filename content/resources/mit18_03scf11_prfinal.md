@@ -4,6 +4,7 @@ description: This resource contains practice final exam.
 file: /courses/18-03sc-differential-equations-fall-2011/7a97822f443c079f10d1271dc79fcd6b_MIT18_03SCF11_prfinal.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains practice final exam.
-

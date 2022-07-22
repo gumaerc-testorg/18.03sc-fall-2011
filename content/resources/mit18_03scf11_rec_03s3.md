@@ -5,6 +5,7 @@ description: This resource contains practice problem statements related to numer
 file: /courses/18-03sc-differential-equations-fall-2011/67b56658c2877d0e4533acf589a21c8b_MIT18_03SCF11_rec_03s3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Numerical Methods
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains practice problem statements related to numerical methods.
-

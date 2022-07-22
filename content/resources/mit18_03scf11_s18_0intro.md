@@ -4,6 +4,7 @@ description: This resource contains information related to pure resonance.
 file: /courses/18-03sc-differential-equations-fall-2011/3655af30412e2aebd0de0067925e8eb1_MIT18_03SCF11_s18_0intro.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Pure Resonance
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to pure resonance.
-

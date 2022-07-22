@@ -5,6 +5,7 @@ description: This resource contains problem statements related to cosines with c
 file: /courses/18-03sc-differential-equations-fall-2011/469b9c044f1efc5a1aa81c5a7bc9b4f0_MIT18_03SCF11_s21_2quizc.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Fourier Series: Basics'
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to cosines with common periods.
-

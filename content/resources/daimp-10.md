@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-03sc-differential-equations-fall-2011/5119d1ca19ed68233a3c6819727dc853_Daimp.jar
 file_type: application/java-archive
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: ODE's with Periodic Input, Resonance
 parent_type: CourseSection

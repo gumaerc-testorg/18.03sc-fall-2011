@@ -5,6 +5,7 @@ description: 'This resource contains information related to linear phase portrai
 file: /courses/18-03sc-differential-equations-fall-2011/94dc5d4ef9a2fd1e7f5535804815e2cc_MIT18_03SCF11_s32_8appl.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Linear Systems
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to linear phase portraits: matrix entry.
-

@@ -4,6 +4,7 @@ description: This resource contains problem statements related to vectors and ma
 file: /courses/18-03sc-differential-equations-fall-2011/81955e31822fd845f7b9fa0d634646bb_MIT18_03SCF11_s32_5exerq.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Linear Systems
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to vectors and matrices.
-

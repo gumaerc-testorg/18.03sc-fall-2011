@@ -5,6 +5,7 @@ description: This resource contains solutions to the problem statements related 
 file: /courses/18-03sc-differential-equations-fall-2011/dd345bc87c5351376cdef6e6f05e81ca_MIT18_03SCF11_s1_4quiza.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Basic DE's and Separable Equations
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions to the problem statements related to is its separable?
-

@@ -4,6 +4,7 @@ description: This resource contains problem statements related to integrating fa
 file: /courses/18-03sc-differential-equations-fall-2011/a61025ca88fc17bc9173e599450be7ec_MIT18_03SCF11_s5_6quizq.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Solution by Integrating Factors
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to integrating factors.
-

@@ -5,6 +5,7 @@ description: This resource contains problem statements related to computing the 
 file: /courses/18-03sc-differential-equations-fall-2011/2861ae98d658773ab14a6275ffe82a5a_MIT18_03SCF11_s27_4quizq.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Laplace Transform: Basics'
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem statements related to computing the laplace transform.
-

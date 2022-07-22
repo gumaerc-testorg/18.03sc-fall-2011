@@ -5,6 +5,7 @@ description: This resource contains information related to linear differential o
 file: /courses/18-03sc-differential-equations-fall-2011/0d56447023ec764fb2f3295da2458c4e_MIT18_03SCF11_s17_2text.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Linear Operators, Linear Time Invariance
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to linear differential operators with constant coefficients.
-

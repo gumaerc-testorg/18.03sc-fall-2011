@@ -5,6 +5,7 @@ description: 'This resource contains information related to qualitative behavior
 file: /courses/18-03sc-differential-equations-fall-2011/40835b11ab91d8dda674152eeebc65cb_MIT18_03SCF11_s34_0intro.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Qualitative Behavior: Phase Portraits'
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to qualitative behavior: phase portraits.
-
