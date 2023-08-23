@@ -29,7 +29,7 @@
     "website": "18-03sc-differential-equations-fall-2011"
   },
   "course_title": "Differential Equations",
-  "course_description": "The laws of nature are expressed as differential equations. Scientists and engineers must know how to model the world in terms of differential equations, and how to solve those equations and interpret the solutions. This course focuses on the equations and techniques most useful in science and engineering.\n##### Course Format\n\n* * *\n\n[![Click to get started.](/images/button_start.png)](pages/Syllabus) This course has been designed for independent study. It provides everything you will need to understand the concepts covered in the course. The materials include:\n\n*   **Lecture Videos** by Professor Arthur Mattuck.\n*   **Course Notes** on every topic.\n*   **Practice Problems** with **Solutions**.\n*   **Problem Solving Videos** taught by experienced MIT Recitation Instructors.\n*   **Problem Sets** to do on your own with **Solutions** to check your answers against when you're done.\n*   A selection of **Interactive Java\u00ae Demonstrations** called _Mathlets_ to illustrate key concepts.\n*   A full set of **Exams with Solutions**, including practice exams to help you prepare.\n\n##### Content Development\n\nHaynes Miller  \nJeremy Orloff  \nDr. John Lewis  \nArthur Mattuck",
+  "course_description": "The laws of nature are expressed as differential equations. Scientists and engineers must know how to model the world in terms of differential equations, and how to solve those equations and interpret the solutions. This course focuses on the equations and techniques most useful in science and engineering.\n\nCourse Format\n\nThis course has been designed for independent study. It provides everything you will need to understand the concepts covered in the course. The materials include:\n\n- **Lecture Videos** by Professor Arthur Mattuck.\n- **Course Notes** on every topic.\n- **Practice Problems** with **Solutions**.\n- **Problem Solving Videos** taught by experienced MIT Recitation Instructors.\n- **Problem Sets** to do on your own with **Solutions** to check your answers against when you're done.\n- A selection of **Interactive Java\u00ae Demonstrations** called _Mathlets_ to illustrate key concepts.\n- A full set of **Exams with Solutions**, including practice exams to help you prepare.\n\nContent Development\n\nHaynes Miller\u00a0  \nJeremy Orloff\u00a0  \nDr. John Lewis\u00a0  \nArthur Mattuck",
   "department_numbers": [
     "18"
   ],
@@ -47,6 +47,7 @@
     "Lecture Notes",
     "Problem Sets with Solutions"
   ],
-  "site_uid": "9a74dcfa-d22b-4f37-8ef2-9eb41f861cea",
+  "site_uid": "d1072f7f-8e57-44d1-ad38-e379db96d6ea",
+  "site_short_id": "18.03sc-fall-2011",
   "title": "Course Metadata"
 }
