@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: This resource contains information related to solving by elimination.
+draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/87ee712d22bc05b58408b64667908e87_MIT18_03SCF11_s32_2exerq.pdf
+file_size: ''
 file_type: application/pdf
-learning_resource_types: []
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Linear Systems
@@ -13,8 +20,14 @@ resourcetype: Document
 title: MIT18_03SCF11_s32_2exerq.pdf
 uid: 87ee712d-22bc-05b5-8408-b64667908e87
 video_files:
-  video_thumbnail_file: null
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
-  youtube_id: null
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---
 This resource contains information related to solving by elimination.

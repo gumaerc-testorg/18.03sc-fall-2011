@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to geometric methods.
+draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/b873d2aec7e37a2ac56f0d9cb10fc41e_MIT18_03SCF11_ps1_II_s2q.pdf
+file_size: ''
 file_type: application/pdf
-learning_resource_types: []
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Geometric Methods
@@ -13,8 +20,14 @@ resourcetype: Document
 title: '18.03SCF11 text: Part II Problems'
 uid: b873d2ae-c7e3-7a2a-c56f-0d9cb10fc41e
 video_files:
-  video_thumbnail_file: null
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
-  youtube_id: null
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---
 This resource contains problem statements related to geometric methods.
