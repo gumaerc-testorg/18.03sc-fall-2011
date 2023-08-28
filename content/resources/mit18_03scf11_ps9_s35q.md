@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to matrix exponentials.
+draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/4d13a7b4c188d5fae101de90b95ae383_MIT18_03SCF11_ps9_s35q.pdf
+file_size: ''
 file_type: application/pdf
-learning_resource_types: []
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Matrix Exponentials
@@ -13,8 +20,14 @@ resourcetype: Document
 title: MIT18_03SCF11_ps9_s35q.pdf
 uid: 4d13a7b4-c188-d5fa-e101-de90b95ae383
 video_files:
-  video_thumbnail_file: null
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
-  youtube_id: null
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---
 This resource contains problem statements related to matrix exponentials.

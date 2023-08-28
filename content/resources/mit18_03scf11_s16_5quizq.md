@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to undetermined coefficients.
+draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/75b795b7f87cf8c1a080fd022a40f940_MIT18_03SCF11_s16_5quizq.pdf
+file_size: ''
 file_type: application/pdf
-learning_resource_types: []
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Undetermined Coefficients
@@ -13,8 +20,14 @@ resourcetype: Document
 title: MIT18_03SCF11_s16_5quizq.pdf
 uid: 75b795b7-f87c-f8c1-a080-fd022a40f940
 video_files:
-  video_thumbnail_file: null
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
-  youtube_id: null
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---
 This resource contains problem statements related to undetermined coefficients.

@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to sinusoidal functions.
+draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/f36e0b01950b4ac0a77ca8ba7490e3ca_MIT18_03SCF11_ps2_s7q.pdf
+file_size: ''
 file_type: application/pdf
-learning_resource_types: []
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Sinusoidal Functions
@@ -13,8 +20,14 @@ resourcetype: Document
 title: '18.03SCF11 text: Part I Problems'
 uid: f36e0b01-950b-4ac0-a77c-a8ba7490e3ca
 video_files:
-  video_thumbnail_file: null
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
-  youtube_id: null
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---
 This resource contains problem statements related to sinusoidal functions.

@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: This resource contains information related to fourier series.
+draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/bbd5d0826e540777e5978f1f6faffb63_MIT18_03SCF11_s21_0intro.pdf
+file_size: ''
 file_type: application/pdf
-learning_resource_types: []
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Fourier Series: Basics'
@@ -13,8 +20,14 @@ resourcetype: Document
 title: MIT18_03SCF11_s21_0intro.pdf
 uid: bbd5d082-6e54-0777-e597-8f1f6faffb63
 video_files:
-  video_thumbnail_file: null
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
-  youtube_id: null
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---
 This resource contains information related to fourier series.
