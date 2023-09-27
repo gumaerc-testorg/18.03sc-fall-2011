@@ -2,9 +2,16 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   exponential input.
+draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/ab1e98eac3f642f23fa9daab5c8755ca_MIT18_03SCF11_rec_05s9_sol.pdf
+file_size: ''
 file_type: application/pdf
-learning_resource_types: []
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exponential Input; Gain and Phase Lag
@@ -14,8 +21,14 @@ resourcetype: Document
 title: MIT18_03SCF11_rec_05s9_sol.pdf
 uid: ab1e98ea-c3f6-42f2-3fa9-daab5c8755ca
 video_files:
-  video_thumbnail_file: null
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
-  youtube_id: null
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---
 This resource contains solutions for the problem statements related to exponential input.
