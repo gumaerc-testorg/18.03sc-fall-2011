@@ -66,15 +66,15 @@ MIT expects its students to spend about 150 hours on this course. More than half
 
 {{< resource 58b3770a-846c-be04-ca90-8161a0dcb360 >}}
 
-Haynes Miller is a Professor of Mathematics at MIT. In 2005 he was an [MIT MacVicar Faculty Fellow](http://web.mit.edu/macvicar/) in recognition of his outstanding contributions to undergraduate education. He has taught 18.03 many times and was the prime mover behind its current design. Professor Miller contributed many of the materials used in this OCW Scholar course. He was also the principal investigator behind the development of the Interactive Java® Demonstrations called [Mathlets](http://math.mit.edu/mathlets/) used here.
+Haynes Miller is a Professor of Mathematics at MIT. In 2005 he was an {{% resource_link "01b30cb5-5739-49df-a552-9ab34065f578" "MIT MacVicar Faculty Fellow" %}} in recognition of his outstanding contributions to undergraduate education. He has taught 18.03 many times and was the prime mover behind its current design. Professor Miller contributed many of the materials used in this OCW Scholar course. He was also the principal investigator behind the development of the Interactive Java® Demonstrations called {{% resource_link "af4e4273-e67d-49a3-81c8-daf76e0d5819" "Mathlets" %}} used here.
 
 {{< resource 6c5f3cb3-7de2-b55c-05db-357df3867b62 >}}
 
-Dr. Jeremy Orloff is a lecturer in the Department of Mathematics and in the [Experimental Study Group](http://esg.mit.edu/) at MIT. He has taught 18.03 many times. Dr. Orloff was the lead content developer of this OCW Scholar course and worked closely with MIT OpenCourseWare on its development.
+Dr. Jeremy Orloff is a lecturer in the Department of Mathematics and in the {{% resource_link "f855b283-faef-4728-bbe8-e22e07519d70" "Experimental Study Group" %}} at MIT. He has taught 18.03 many times. Dr. Orloff was the lead content developer of this OCW Scholar course and worked closely with MIT OpenCourseWare on its development.
 
 {{< resource f63da2e3-f7c5-8c8c-6d5c-f379c8ce0446 >}}
 
-Dr. John Lewis is a Research Affiliate and former Senior Lecturer in the Department of Mathematics. He taught 18.03 for many years in the Experimental Study Group and [Concourse](http://web.mit.edu/concourse/www/) programs at MIT, often in collaboration with Dr. Orloff.
+Dr. John Lewis is a Research Affiliate and former Senior Lecturer in the Department of Mathematics. He taught 18.03 for many years in the Experimental Study Group and {{% resource_link "7998642f-d11a-4cea-99b2-c2c3b6c2326e" "Concourse" %}} programs at MIT, often in collaboration with Dr. Orloff.
 
 ### Video Lectures
 
