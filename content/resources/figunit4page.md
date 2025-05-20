@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-03sc-differential-equations-fall-2011/1843360a2a3e1d5bd9927461af033724_figunit4page.jpg
+file_size: 21934
 file_type: image/jpeg
 image_metadata:
   caption: ''

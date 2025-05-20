@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-03sc-differential-equations-fall-2011/e2ec9382461bbe5345e04e602cbaf63a_Daimp.jar
+file_size: 45371
 file_type: application/java-archive
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
