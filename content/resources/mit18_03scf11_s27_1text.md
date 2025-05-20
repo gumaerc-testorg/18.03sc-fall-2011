@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to definition of laplace transform.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/d40ad07a62996f6dad93b832f8de0e04_MIT18_03SCF11_s27_1text.pdf
-file_size: ''
+file_size: 181781
 file_type: application/pdf
 image_metadata:
   caption: ''

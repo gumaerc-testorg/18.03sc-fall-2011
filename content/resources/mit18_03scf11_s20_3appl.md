@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to RLC circuits applet.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/9ef66c391115572c927c04be9dff5321_MIT18_03SCF11_s20_3appl.pdf
-file_size: ''
+file_size: 164972
 file_type: application/pdf
 image_metadata:
   caption: ''

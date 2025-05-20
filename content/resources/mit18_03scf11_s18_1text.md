@@ -4,7 +4,7 @@ description: 'This resource contains information related to the exponential resp
   formula: resonant case.'
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/50553b283ca7133bddec2911bae27ea1_MIT18_03SCF11_s18_1text.pdf
-file_size: ''
+file_size: 133949
 file_type: application/pdf
 image_metadata:
   caption: ''

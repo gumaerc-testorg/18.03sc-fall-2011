@@ -4,7 +4,7 @@ description: This resource contains information related to green's formula, lapl
   transform of convolution.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/0d4d90053f2bb24f7551c78e2d1b21a2_MIT18_03SCF11_s30_5text.pdf
-file_size: ''
+file_size: 188305
 file_type: application/pdf
 image_metadata:
   caption: ''

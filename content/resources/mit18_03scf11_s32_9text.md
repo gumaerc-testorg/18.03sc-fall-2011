@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to the companion matrix.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/f1cedd18c1ece0045e03d9bd8ff63ca8_MIT18_03SCF11_s32_9text.pdf
-file_size: ''
+file_size: 117376
 file_type: application/pdf
 image_metadata:
   caption: ''

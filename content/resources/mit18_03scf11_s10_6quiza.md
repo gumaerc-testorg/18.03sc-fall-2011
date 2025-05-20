@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statement related 
   inflection points.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/a91428a6d220a0fcb9b8479311eeaeb0_MIT18_03SCF11_s10_6quiza.pdf
-file_size: ''
+file_size: 100272
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to example for stability.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/88b313203acb2a8668de4578a404ffd5_MIT18_03SCF11_s15_2text.pdf
-file_size: ''
+file_size: 149638
 file_type: application/pdf
 image_metadata:
   caption: ''

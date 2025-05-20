@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to the wronskian.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/af06a8e18c0831ddca1cee9564b37839_MIT18_03SCF11_s35_3text.pdf
-file_size: ''
+file_size: 187710
 file_type: application/pdf
 image_metadata:
   caption: ''

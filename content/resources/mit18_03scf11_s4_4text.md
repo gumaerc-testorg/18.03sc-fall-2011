@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to systems: input and response.'
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/1096f3ea18dbd2458015154f03df2796_MIT18_03SCF11_s4_4text.pdf
-file_size: ''
+file_size: 182387
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to laplace transform table.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/92358abc68cca2255b2a6ed6d1fa8974_MIT18_03SCF11_laptable30.pdf
-file_size: ''
+file_size: 176776
 file_type: application/pdf
 image_metadata:
   caption: ''

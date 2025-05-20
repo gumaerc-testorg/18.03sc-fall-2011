@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to linear differential equations.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/7d88acccb95a5ab72d6b244a75eee7af_MIT18_03SCF11_s12_2text.pdf
-file_size: ''
+file_size: 159864
 file_type: application/pdf
 image_metadata:
   caption: ''

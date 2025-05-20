@@ -4,7 +4,7 @@ description: This resource contains solutions for the practice problems related 
   resonant response formula.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/20374737c4173fcaedf89bda542ff538_MIT18_03SCF11_s14_5exera.pdf
-file_size: ''
+file_size: 128639
 file_type: application/pdf
 image_metadata:
   caption: ''

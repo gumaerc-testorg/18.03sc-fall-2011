@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to transfer functions.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/360809ca9fc9cb15a1e3caf6596c772e_MIT18_03SCF11_ps7_s30q.pdf
-file_size: ''
+file_size: 125663
 file_type: application/pdf
 image_metadata:
   caption: ''

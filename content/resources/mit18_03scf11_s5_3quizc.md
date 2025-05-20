@@ -4,7 +4,7 @@ description: This resource contains choices for the problem statements related t
   units.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/01404df2f262fe02c4618b18e1ebdd34_MIT18_03SCF11_s5_3quizc.pdf
-file_size: ''
+file_size: 92210
 file_type: application/pdf
 image_metadata:
   caption: ''

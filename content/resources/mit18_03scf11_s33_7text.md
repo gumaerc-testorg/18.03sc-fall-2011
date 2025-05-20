@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to complex eigen values.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/a9fea43fe0a632b64d08223fdf472249_MIT18_03SCF11_s33_7text.pdf
-file_size: ''
+file_size: 181310
 file_type: application/pdf
 image_metadata:
   caption: ''

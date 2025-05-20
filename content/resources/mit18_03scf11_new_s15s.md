@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   gain and phase log.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/6462c25674f8010f0f73555a527d7e87_MIT18_03SCF11_new_s15s.pdf
-file_size: ''
+file_size: 149889
 file_type: application/pdf
 image_metadata:
   caption: ''

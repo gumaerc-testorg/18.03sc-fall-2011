@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   solutions to polynomial input.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/52f751d03c8f41e5bfc534a175ebaae0_MIT18_03SCF11_s16_4quiza.pdf
-file_size: ''
+file_size: 104770
 file_type: application/pdf
 image_metadata:
   caption: ''

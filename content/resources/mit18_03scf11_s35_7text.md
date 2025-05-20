@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to the exponential matrix.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/0ce856b9367d1de2fcd774815cc7b137_MIT18_03SCF11_s35_7text.pdf
-file_size: ''
+file_size: 197746
 file_type: application/pdf
 image_metadata:
   caption: ''

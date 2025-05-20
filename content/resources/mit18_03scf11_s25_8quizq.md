@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to unit pulse response.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/9e3fb1725d4bf5ebb46eecc6fc44e985_MIT18_03SCF11_s25_8quizq.pdf
-file_size: ''
+file_size: 115639
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to complex powers.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/e47493ea57e9c3e03208fe08868ba64a_MIT18_03SCF11_s6_6quizq.pdf
-file_size: ''
+file_size: 81858
 file_type: application/pdf
 image_metadata:
   caption: ''

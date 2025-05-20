@@ -4,7 +4,7 @@ description: 'This resource contains information related to laplace transform: s
   initial value problems.'
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/ef173a5e67c974f9000478abbf59faa1_MIT18_03SCF11_s29_0intro.pdf
-file_size: ''
+file_size: 127099
 file_type: application/pdf
 image_metadata:
   caption: ''

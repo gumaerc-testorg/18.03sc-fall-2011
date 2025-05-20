@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   cosines with common periods.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/31a11445e5e176121f33ce550ef6e510_MIT18_03SCF11_s21_2quiza.pdf
-file_size: ''
+file_size: 114813
 file_type: application/pdf
 image_metadata:
   caption: ''

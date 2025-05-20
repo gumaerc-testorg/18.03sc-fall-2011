@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   numerical methods.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/54f720d3d59620226d218553a346a4f7_MIT18_03SCF11_ps1_s3s.pdf
-file_size: ''
+file_size: 150622
 file_type: application/pdf
 image_metadata:
   caption: ''

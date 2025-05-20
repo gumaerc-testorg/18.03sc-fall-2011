@@ -4,7 +4,7 @@ description: This resource contains information related to describing a first or
   system using matrix notation.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/0811dc28e292e1b3743c6c303ee4e6dd_MIT18_03SCF11_s32_6text.pdf
-file_size: ''
+file_size: 157743
 file_type: application/pdf
 image_metadata:
   caption: ''

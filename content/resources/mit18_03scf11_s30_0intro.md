@@ -4,7 +4,7 @@ description: This resource contains information related to transfer (system) and
   functions, green's formula.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/76bf1f57597793c877370e22c322aa71_MIT18_03SCF11_s30_0intro.pdf
-file_size: ''
+file_size: 126139
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to integrating factors.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/a61025ca88fc17bc9173e599450be7ec_MIT18_03SCF11_s5_6quizq.pdf
-file_size: ''
+file_size: 99553
 file_type: application/pdf
 image_metadata:
   caption: ''

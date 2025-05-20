@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   laplace transform.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/4255c5850fa04e156f0437b198c079ae_MIT18_03SCF11_ps7_II_s27s.pdf
-file_size: ''
+file_size: 194025
 file_type: application/pdf
 image_metadata:
   caption: ''

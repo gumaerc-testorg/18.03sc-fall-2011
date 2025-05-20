@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to heat diffusion.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/8ff13f1e20a24ab56bcd652c57cae3b8_MIT18_03SCF11_s5_2atext.pdf
-file_size: ''
+file_size: 156464
 file_type: application/pdf
 image_metadata:
   caption: ''

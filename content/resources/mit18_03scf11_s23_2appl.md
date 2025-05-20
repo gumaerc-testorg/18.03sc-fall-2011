@@ -4,7 +4,7 @@ description: 'This resource contains information related to applet exploration: 
   frequency response.'
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/e0b5ae56c9d16d33fb327f32d11eb8c2_MIT18_03SCF11_s23_2appl.pdf
-file_size: ''
+file_size: 130528
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: This resource contains information related to first order response 
   exponential input.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/f53b0774d29ae27ae2092e3c97a573fe_MIT18_03SCF11_s9_1text.pdf
-file_size: ''
+file_size: 111806
 file_type: application/pdf
 image_metadata:
   caption: ''

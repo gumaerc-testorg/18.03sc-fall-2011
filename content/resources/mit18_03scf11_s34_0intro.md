@@ -4,7 +4,7 @@ description: 'This resource contains information related to qualitative behavior
   phase portraits.'
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/40835b11ab91d8dda674152eeebc65cb_MIT18_03SCF11_s34_0intro.pdf
-file_size: ''
+file_size: 129213
 file_type: application/pdf
 image_metadata:
   caption: ''

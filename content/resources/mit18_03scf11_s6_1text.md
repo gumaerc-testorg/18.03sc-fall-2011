@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to complex arithmetic.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/7f655e36dcda82d958d83e1915556f0f_MIT18_03SCF11_s6_1text.pdf
-file_size: ''
+file_size: 137286
 file_type: application/pdf
 image_metadata:
   caption: ''

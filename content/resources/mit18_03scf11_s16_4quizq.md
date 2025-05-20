@@ -4,7 +4,7 @@ description: This resource contains problem statements related to solutions to p
   input.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/0561ccd4a7fb8d9b97af6c3297af259a_MIT18_03SCF11_s16_4quizq.pdf
-file_size: ''
+file_size: 96985
 file_type: application/pdf
 image_metadata:
   caption: ''

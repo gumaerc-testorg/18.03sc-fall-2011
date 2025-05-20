@@ -4,7 +4,7 @@ description: This resource contains information related to motivation and implem
   of euler's method.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/28e86f0df95d073b990667eb2aae49bc_MIT18_03SCF11_s3_1text.pdf
-file_size: ''
+file_size: 171456
 file_type: application/pdf
 image_metadata:
   caption: ''

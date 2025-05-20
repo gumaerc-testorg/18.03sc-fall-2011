@@ -4,7 +4,7 @@ description: This resource contains information related to fourier series for fu
   with period 2L.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/ccda4b154d62ec108ffbea95bd8fa3f7_MIT18_03SCF11_s21_6text.pdf
-file_size: ''
+file_size: 162476
 file_type: application/pdf
 image_metadata:
   caption: ''

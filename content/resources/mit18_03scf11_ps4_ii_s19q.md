@@ -4,7 +4,7 @@ description: This resource contains practice problem statements related to frequ
   response.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/261371175db0a3e1c1bc8b9567bc1eda_MIT18_03SCF11_ps4_II_s19q.pdf
-file_size: ''
+file_size: 177610
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: This resource contains choices for the problem statements related t
   interpret the graph.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/4d95feb8ba35efc5addfb2f4d9ab735c_MIT18_03SCF11_s4_3quizc.pdf
-file_size: ''
+file_size: 97808
 file_type: application/pdf
 image_metadata:
   caption: ''

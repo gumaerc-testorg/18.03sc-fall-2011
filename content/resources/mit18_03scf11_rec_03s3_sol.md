@@ -4,7 +4,7 @@ description: This resource contains solutions for the practice problem statement
   related to numerical methods.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/6ac50364ad48fa96c24bf450865f690f_MIT18_03SCF11_rec_03s3_sol.pdf
-file_size: ''
+file_size: 146736
 file_type: application/pdf
 image_metadata:
   caption: ''

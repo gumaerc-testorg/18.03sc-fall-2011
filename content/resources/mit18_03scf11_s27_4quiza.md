@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   computing the laplace transform.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/9bed7079f1be828525ba9a69d55cea7b_MIT18_03SCF11_s27_4quiza.pdf
-file_size: ''
+file_size: 123531
 file_type: application/pdf
 image_metadata:
   caption: ''

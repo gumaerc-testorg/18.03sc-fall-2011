@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to first order linear ODE's.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/e110d0cd09a99a105a8be84933819649_MIT18_03SCF11_s4_0intro.pdf
-file_size: ''
+file_size: 87854
 file_type: application/pdf
 image_metadata:
   caption: ''

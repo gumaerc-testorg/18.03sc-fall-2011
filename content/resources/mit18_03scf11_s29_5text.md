@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to IVP''s: longer examples.'
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/f71359b8bb98e6bbb7ba591c349b6886_MIT18_03SCF11_s29_5text.pdf
-file_size: ''
+file_size: 197503
 file_type: application/pdf
 image_metadata:
   caption: ''

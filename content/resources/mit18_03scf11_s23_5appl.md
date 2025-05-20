@@ -4,7 +4,7 @@ description: 'This resource contains information related to applet exploration: 
   coefficients with sound.'
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/15f4ca73c3369b5c3633d181e1685625_MIT18_03SCF11_s23_5appl.pdf
-file_size: ''
+file_size: 160013
 file_type: application/pdf
 image_metadata:
   caption: ''

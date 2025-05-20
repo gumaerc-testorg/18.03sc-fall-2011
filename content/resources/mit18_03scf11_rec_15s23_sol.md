@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   periodic input.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/e5c081f359732a8e1d716ebc4820aac8_MIT18_03SCF11_rec_15s23_sol.pdf
-file_size: ''
+file_size: 215214
 file_type: application/pdf
 image_metadata:
   caption: ''
