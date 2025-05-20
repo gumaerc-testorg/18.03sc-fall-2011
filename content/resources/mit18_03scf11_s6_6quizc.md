@@ -4,7 +4,7 @@ description: This resource contains choices for the problem statements related t
   complex powers.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/b55b738afa6546a510233ed144ecf451_MIT18_03SCF11_s6_6quizc.pdf
-file_size: ''
+file_size: 93502
 file_type: application/pdf
 image_metadata:
   caption: ''

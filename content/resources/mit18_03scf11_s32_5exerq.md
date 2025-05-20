@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to vectors and matrices.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/81955e31822fd845f7b9fa0d634646bb_MIT18_03SCF11_s32_5exerq.pdf
-file_size: ''
+file_size: 121932
 file_type: application/pdf
 image_metadata:
   caption: ''

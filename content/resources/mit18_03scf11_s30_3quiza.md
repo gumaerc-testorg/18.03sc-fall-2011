@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   finding p(D).
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/7485da1ce20f12f6709831fef9115bc9_MIT18_03SCF11_s30_3quiza.pdf
-file_size: ''
+file_size: 118789
 file_type: application/pdf
 image_metadata:
   caption: ''

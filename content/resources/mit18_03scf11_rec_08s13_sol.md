@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   damped oscillators.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/79f2349d10404454ea6ed6f959fc1d33_MIT18_03SCF11_rec_08s13_sol.pdf
-file_size: ''
+file_size: 198885
 file_type: application/pdf
 image_metadata:
   caption: ''

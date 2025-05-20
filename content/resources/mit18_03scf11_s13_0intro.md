@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to damped harmonic oscillators.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/44297df499f3bad7115152c0f152fd48_MIT18_03SCF11_s13_0intro.pdf
-file_size: ''
+file_size: 134699
 file_type: application/pdf
 image_metadata:
   caption: ''

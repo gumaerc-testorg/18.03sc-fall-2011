@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   sinusoidal functions.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/043469ff45b2dcb23a5a92080db9e732_MIT18_03SCF11_ps2_s7s.pdf
-file_size: ''
+file_size: 133868
 file_type: application/pdf
 image_metadata:
   caption: ''

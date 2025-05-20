@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to the most important DE.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/ba41321f7b59239ccf5289fdf6521348_MIT18_03SCF11_s1_0intro.pdf
-file_size: ''
+file_size: 122288
 file_type: application/pdf
 image_metadata:
   caption: ''

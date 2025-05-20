@@ -4,7 +4,7 @@ description: This resource contains information related to convergence of fourie
   series.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/8e4435afa4190fbea3a462ee8f00a795_MIT18_03SCF11_s22_5text.pdf
-file_size: ''
+file_size: 153424
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to undetermined coefficients.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/75b795b7f87cf8c1a080fd022a40f940_MIT18_03SCF11_s16_5quizq.pdf
-file_size: ''
+file_size: 120324
 file_type: application/pdf
 image_metadata:
   caption: ''

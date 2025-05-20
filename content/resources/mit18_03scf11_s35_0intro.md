@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to matrix exponentials.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/1c0d362991174a676fd811af37128896_MIT18_03SCF11_s35_0intro.pdf
-file_size: ''
+file_size: 115609
 file_type: application/pdf
 image_metadata:
   caption: ''

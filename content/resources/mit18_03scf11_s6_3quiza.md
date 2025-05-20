@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   complex powers.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/c4174a44a61d6f3989e8feb03eb7461e_MIT18_03SCF11_s6_3quiza.pdf
-file_size: ''
+file_size: 112815
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to linear operators.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/3a93f22a9335f75ac746a02f761cb5b4_MIT18_03SCF11_s17_4text.pdf
-file_size: ''
+file_size: 96529
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: 'This resource contains information related to applet exploration: 
   exponential.'
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/389f7705130be27a47656a112888fa84_MIT18_03SCF11_s6_7bappl.pdf
-file_size: ''
+file_size: 93618
 file_type: application/pdf
 image_metadata:
   caption: ''

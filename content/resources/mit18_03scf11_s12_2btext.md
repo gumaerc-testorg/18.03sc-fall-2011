@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to the characteristic polynomial.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/8a67e7e0c66af86d1f680c115755b981_MIT18_03SCF11_s12_2btext.pdf
-file_size: ''
+file_size: 118989
 file_type: application/pdf
 image_metadata:
   caption: ''

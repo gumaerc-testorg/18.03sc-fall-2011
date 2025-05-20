@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   applications.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/3cacbde6e024e8557b5d58420ed5544c_MIT18_03SCF11_ps5_II_s20s.pdf
-file_size: ''
+file_size: 241547
 file_type: application/pdf
 image_metadata:
   caption: ''

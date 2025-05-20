@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   comoplex powers.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/52adf823d1054727fcd09faa3da17884_MIT18_03SCF11_s6_6quiza.pdf
-file_size: ''
+file_size: 104088
 file_type: application/pdf
 image_metadata:
   caption: ''

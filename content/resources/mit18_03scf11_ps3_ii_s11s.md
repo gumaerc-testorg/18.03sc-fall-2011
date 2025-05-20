@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   linear vs non linear.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/6c5887447f9046bb6bf4b03798738b6c_MIT18_03SCF11_ps3_II_s11s.pdf
-file_size: ''
+file_size: 123980
 file_type: application/pdf
 image_metadata:
   caption: ''

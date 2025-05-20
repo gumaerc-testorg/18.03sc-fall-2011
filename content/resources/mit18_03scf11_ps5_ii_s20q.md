@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains problem statements related to applications. '
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/ce7e0a83b107d455342b58ba65215ad0_MIT18_03SCF11_ps5_II_s20q.pdf
-file_size: ''
+file_size: 184074
 file_type: application/pdf
 image_metadata:
   caption: ''

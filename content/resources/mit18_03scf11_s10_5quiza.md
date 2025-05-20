@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statement related 
   can solutions have a local maximum?
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/ad4be6d1c99be8a2db2f48186a1c9627_MIT18_03SCF11_s10_5quiza.pdf
-file_size: ''
+file_size: 95771
 file_type: application/pdf
 image_metadata:
   caption: ''

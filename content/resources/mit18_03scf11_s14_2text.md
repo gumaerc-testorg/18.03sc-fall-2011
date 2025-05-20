@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to exponential input.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/0db2831f0ab1f34903b0c37c10e6383b_MIT18_03SCF11_s14_2text.pdf
-file_size: ''
+file_size: 146409
 file_type: application/pdf
 image_metadata:
   caption: ''

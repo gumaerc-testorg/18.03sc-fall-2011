@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to convolution.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/9bc9abbd62a815fcef840fac5202e035_MIT18_03SCF11_s26_1text.pdf
-file_size: ''
+file_size: 138109
 file_type: application/pdf
 image_metadata:
   caption: ''

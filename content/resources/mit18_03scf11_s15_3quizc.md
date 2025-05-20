@@ -4,7 +4,7 @@ description: This resource contains choices for the problem statements related t
   damping and phase log.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/9b3d1011a812350ee763755c1ec818e9_MIT18_03SCF11_s15_3quizc.pdf
-file_size: ''
+file_size: 113981
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to poles.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/e62bc7795ac0e4f2e74bdf2a7114a384_MIT18_03SCF11_ps8_s31q.pdf
-file_size: ''
+file_size: 116824
 file_type: application/pdf
 image_metadata:
   caption: ''

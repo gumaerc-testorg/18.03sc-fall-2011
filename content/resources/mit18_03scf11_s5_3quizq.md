@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to units.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/b0106a93225ad3dfb590d6c3d43a42fa_MIT18_03SCF11_s5_3quizq.pdf
-file_size: ''
+file_size: 90146
 file_type: application/pdf
 image_metadata:
   caption: ''

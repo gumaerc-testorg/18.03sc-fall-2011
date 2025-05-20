@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   phase portraits.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/96f2dff6d0c268e4d081f7fa5a9e4a02_MIT18_03SCF11_rec_24s34_sol.pdf
-file_size: ''
+file_size: 122253
 file_type: application/pdf
 image_metadata:
   caption: ''

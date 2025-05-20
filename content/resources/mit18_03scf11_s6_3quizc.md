@@ -4,7 +4,7 @@ description: This resource contains choices for the problem statements related t
   multiplication by i.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/b001c037dcf47e98cdca1977b7f5b8e7_MIT18_03SCF11_s6_3quizc.pdf
-file_size: ''
+file_size: 77963
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: 'This resource contains information related to sinusoidally driven 
   second order LTI DE''s.'
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/01f43faa006ba31278eb6e819c35a771_MIT18_03SCF11_s19_1text.pdf
-file_size: ''
+file_size: 167478
 file_type: application/pdf
 image_metadata:
   caption: ''

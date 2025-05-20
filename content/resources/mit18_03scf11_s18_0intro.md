@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to pure resonance.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/3655af30412e2aebd0de0067925e8eb1_MIT18_03SCF11_s18_0intro.pdf
-file_size: ''
+file_size: 95691
 file_type: application/pdf
 image_metadata:
   caption: ''

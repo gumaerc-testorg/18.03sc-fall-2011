@@ -4,7 +4,7 @@ description: This resource contains information related to the normalized fundam
   matrix.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/843a866acaa14009ace69ff67c99a0a6_MIT18_03SCF11_s35_6text.pdf
-file_size: ''
+file_size: 151067
 file_type: application/pdf
 image_metadata:
   caption: ''

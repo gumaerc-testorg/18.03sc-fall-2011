@@ -4,7 +4,7 @@ description: This resource contains practice problem statements related to expon
   response.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/bae8fb818b32f461d4109539d364eb6d_MIT18_03SCF11_ps4_s14q.pdf
-file_size: ''
+file_size: 109136
 file_type: application/pdf
 image_metadata:
   caption: ''

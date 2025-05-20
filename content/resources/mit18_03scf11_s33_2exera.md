@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   linear algebra.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/891f0af00e26a530a1efadd94831283a_MIT18_03SCF11_s33_2exera.pdf
-file_size: ''
+file_size: 133812
 file_type: application/pdf
 image_metadata:
   caption: ''

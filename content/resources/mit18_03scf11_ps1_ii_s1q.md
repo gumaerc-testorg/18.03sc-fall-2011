@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to basic DE's.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/58c07a826a43655f3ac6f433151c7856_MIT18_03SCF11_ps1_II_s1q.pdf
-file_size: ''
+file_size: 126336
 file_type: application/pdf
 image_metadata:
   caption: ''

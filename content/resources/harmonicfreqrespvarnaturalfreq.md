@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-03sc-differential-equations-fall-2011/bb8cbedbc746e573148ad8e9ae89643d_HarmonicFreqRespVarNaturalFreq.jar
+file_size: 6673
 file_type: application/java-archive
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

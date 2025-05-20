@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to common frequencies.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/1598ee901d505217b14d32bf14505aa1_MIT18_03SCF11_s21_3quizq.pdf
-file_size: ''
+file_size: 83924
 file_type: application/pdf
 image_metadata:
   caption: ''

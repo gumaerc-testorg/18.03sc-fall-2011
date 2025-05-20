@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to phase portraits.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/6c180f94305317de456fcc67b9900ddd_MIT18_03SCF11_s34_4text.pdf
-file_size: ''
+file_size: 131617
 file_type: application/pdf
 image_metadata:
   caption: ''

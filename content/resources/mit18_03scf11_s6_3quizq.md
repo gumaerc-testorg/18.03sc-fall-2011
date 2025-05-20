@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to multiplication by i.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/e66d65749e1f8a0ba52a2a494c822c81_MIT18_03SCF11_s6_3quizq.pdf
-file_size: ''
+file_size: 73581
 file_type: application/pdf
 image_metadata:
   caption: ''
