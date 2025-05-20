@@ -4,7 +4,7 @@ description: This resource contains problem statements related to elimination fo
   by anti-elimination.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/7532f30e09899f26e7b8b2c167adfc8d_MIT18_03SCF11_s32_11quizc.pdf
-file_size: ''
+file_size: 133184
 file_type: application/pdf
 image_metadata:
   caption: ''

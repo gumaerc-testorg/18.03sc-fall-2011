@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to complex arithmetic.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/6a5b3759fd8cd40717df5e01b5340bcf_MIT18_03SCF11_ps2_s6q.pdf
-file_size: ''
+file_size: 97968
 file_type: application/pdf
 image_metadata:
   caption: ''

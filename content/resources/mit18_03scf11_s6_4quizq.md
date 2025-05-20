@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to complex conjugation.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/e13136416817665af7d6625cd463ecc1_MIT18_03SCF11_s6_4quizq.pdf
-file_size: ''
+file_size: 94679
 file_type: application/pdf
 image_metadata:
   caption: ''

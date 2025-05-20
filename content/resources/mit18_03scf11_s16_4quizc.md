@@ -4,7 +4,7 @@ description: This resource contains choices for the problem statements related t
   solutions to polynomial input.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/5bbd0035d808f31e571381bb46a565a5_MIT18_03SCF11_s16_4quizc.pdf
-file_size: ''
+file_size: 92847
 file_type: application/pdf
 image_metadata:
   caption: ''

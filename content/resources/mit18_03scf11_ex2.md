@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains exam 2.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/b36640f2f155ededec38993c975c56da_MIT18_03SCF11_ex2.pdf
-file_size: ''
+file_size: 143077
 file_type: application/pdf
 image_metadata:
   caption: ''

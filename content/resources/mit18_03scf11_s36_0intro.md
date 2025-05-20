@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to non linear systems.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/83dfd4922e02c29f7ba939d7ddad30ce_MIT18_03SCF11_s36_0intro.pdf
-file_size: ''
+file_size: 111339
 file_type: application/pdf
 image_metadata:
   caption: ''

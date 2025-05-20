@@ -4,7 +4,7 @@ description: This resource contains practice problem statements related to numer
   methods.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/67b56658c2877d0e4533acf589a21c8b_MIT18_03SCF11_rec_03s3.pdf
-file_size: ''
+file_size: 101282
 file_type: application/pdf
 image_metadata:
   caption: ''

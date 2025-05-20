@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-03sc-differential-equations-fall-2011/3acd387eb83df3c94a57bc184789fe85_zreI4HllD80.srt
+file_size: 58620
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

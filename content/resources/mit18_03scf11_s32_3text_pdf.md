@@ -1,16 +1,15 @@
 ---
 body: ''
 content_type: resource
-draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/mit18_03scf11_s32_3text.pdf
-file_size: ''
+draft: true
+file: courses/18-03sc-differential-equations-fall-2011/mit18_03scf11_s32_3text.pdf
+file_size: 122624
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Lecture Notes
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '18.03SCF11 text: Review of Vectors and Matrices'

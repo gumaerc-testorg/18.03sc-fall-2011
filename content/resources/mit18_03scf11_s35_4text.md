@@ -4,7 +4,7 @@ description: This resource contains information related to existence and uniquen
   and superposition in the general case.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/8ae57eb392d85ce692965b97dda608fc_MIT18_03SCF11_s35_4text.pdf
-file_size: ''
+file_size: 99823
 file_type: application/pdf
 image_metadata:
   caption: ''

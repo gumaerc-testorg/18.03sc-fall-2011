@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to superposition.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/f6f873c46c7962c3bd0b257be2c303b2_MIT18_03SCF11_s14_1text.pdf
-file_size: ''
+file_size: 143779
 file_type: application/pdf
 image_metadata:
   caption: ''

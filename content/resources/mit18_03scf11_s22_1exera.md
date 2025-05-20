@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   operations.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/079e4787ccaa9ed8ec7de2bee024522f_MIT18_03SCF11_s22_1exera.pdf
-file_size: ''
+file_size: 152068
 file_type: application/pdf
 image_metadata:
   caption: ''

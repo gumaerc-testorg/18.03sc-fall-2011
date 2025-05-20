@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to step and delta functions.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/610f40988fe869df2355c14a0e403c88_MIT18_03SCF11_ps6_II_s24q.pdf
-file_size: ''
+file_size: 132881
 file_type: application/pdf
 image_metadata:
   caption: ''

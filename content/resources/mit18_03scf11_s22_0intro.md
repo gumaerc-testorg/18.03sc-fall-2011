@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to operations on fourier series.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/3ba2a2bb9c3a39da8ca1ed3aea398448_MIT18_03SCF11_s22_0intro.pdf
-file_size: ''
+file_size: 94805
 file_type: application/pdf
 image_metadata:
   caption: ''

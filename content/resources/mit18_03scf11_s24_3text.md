@@ -4,7 +4,7 @@ description: 'This resource contains information related to delta functions: uni
   impulse.'
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/5dbcb6e5e64c2877c7246586dbdd39a5_MIT18_03SCF11_s24_3text.pdf
-file_size: ''
+file_size: 230931
 file_type: application/pdf
 image_metadata:
   caption: ''

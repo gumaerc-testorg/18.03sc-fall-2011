@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to sinusoidal functions.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/257d273441b318d1e94c9f5b34fad474_MIT18_03SCF11_rec_05s7.pdf
-file_size: ''
+file_size: 103011
 file_type: application/pdf
 image_metadata:
   caption: ''

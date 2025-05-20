@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains practice problem statements for exam 2.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/d4a24ca88c851a0c9283889d161883ea_MIT18_03SCF11_prex2.pdf
-file_size: ''
+file_size: 226217
 file_type: application/pdf
 image_metadata:
   caption: ''

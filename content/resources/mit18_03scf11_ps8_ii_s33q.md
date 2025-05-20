@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to matrix methods.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/0f5624b87fbf608194ec63bd058fb68c_MIT18_03SCF11_ps8_II_s33q.pdf
-file_size: ''
+file_size: 162023
 file_type: application/pdf
 image_metadata:
   caption: ''

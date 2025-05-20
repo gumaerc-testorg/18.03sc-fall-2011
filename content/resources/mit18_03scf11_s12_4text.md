@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to modes and roots.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/ea91ae824e246f63146357124f67e7bf_MIT18_03SCF11_s12_4text.pdf
-file_size: ''
+file_size: 147087
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: 'This resource contains solutions for the problem statements relate
   to autonomous equations. '
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/62bd57fdfa917016d4742aedc38cb0a8_MIT18_03SCF11_ps3_II_s10s.pdf
-file_size: ''
+file_size: 172814
 file_type: application/pdf
 image_metadata:
   caption: ''

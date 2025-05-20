@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   linear operators.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/15fff9bf518fc1edc70ab5a3f393f587_MIT18_03SCF11_ps4_s17s.pdf
-file_size: ''
+file_size: 167185
 file_type: application/pdf
 image_metadata:
   caption: ''

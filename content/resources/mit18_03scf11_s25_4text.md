@@ -4,7 +4,7 @@ description: This resource contains information related to first order unit impu
   response.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/8aad230eae44e97c79b1b4cbb3b55b6f_MIT18_03SCF11_s25_4text.pdf
-file_size: ''
+file_size: 180136
 file_type: application/pdf
 image_metadata:
   caption: ''

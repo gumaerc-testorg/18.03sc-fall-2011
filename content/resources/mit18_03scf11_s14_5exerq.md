@@ -4,7 +4,7 @@ description: This resource contains problem statements related to resonant respo
   formula.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/edda0f496062fb9c46f7715c4e76a926_MIT18_03SCF11_s14_5exerq.pdf
-file_size: ''
+file_size: 118154
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: 'This resource contains information related to table entries: deriv
   rules.'
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/22aba4126352ce0f76930d858d8dffa5_MIT18_03SCF11_s29_1text.pdf
-file_size: ''
+file_size: 133510
 file_type: application/pdf
 image_metadata:
   caption: ''

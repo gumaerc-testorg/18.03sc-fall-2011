@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to gibbs phenomenon.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/05cce833730ffd3c39f420a41ad82fd6_MIT18_03SCF11_s22_7text.pdf
-file_size: ''
+file_size: 144141
 file_type: application/pdf
 image_metadata:
   caption: ''

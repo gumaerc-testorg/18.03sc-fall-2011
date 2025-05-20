@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to integration and differentiation.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/40b54a20f8f8cdcfb8ee12d5aa53123b_MIT18_03SCF11_s22_4text.pdf
-file_size: ''
+file_size: 156298
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -1,16 +1,15 @@
 ---
 body: ''
 content_type: resource
-draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/mit18_03scf11_prex3.pdf
-file_size: ''
+draft: true
+file: courses/18-03sc-differential-equations-fall-2011/mit18_03scf11_prex3.pdf
+file_size: 104447
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Exams with Solutions
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '18.03SCF11 text: 18.03SC Unit 3 Practice Exam and Solutions'

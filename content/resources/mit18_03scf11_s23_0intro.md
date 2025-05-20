@@ -4,7 +4,7 @@ description: This resource contains information related to ODE's with periodic i
   and resonance.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/9a4161fd1cdf902c8cfedb16ed4258cf_MIT18_03SCF11_s23_0intro.pdf
-file_size: ''
+file_size: 119875
 file_type: application/pdf
 image_metadata:
   caption: ''

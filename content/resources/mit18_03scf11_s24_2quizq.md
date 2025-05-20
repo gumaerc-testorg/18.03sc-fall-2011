@@ -4,7 +4,7 @@ description: This resource contains problem statements related to using step fun
   as switches.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/2af0b53bb4c0713e340dcfb887935e2d_MIT18_03SCF11_s24_2quizq.pdf
-file_size: ''
+file_size: 118277
 file_type: application/pdf
 image_metadata:
   caption: ''

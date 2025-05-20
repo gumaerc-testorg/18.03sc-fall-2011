@@ -4,7 +4,7 @@ description: This resource contains information related to linearization linear 
   points.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/38a473a2ee68aafe46dd3d0445b0dffd_MIT18_03SCF11_s37_0intro.pdf
-file_size: ''
+file_size: 92993
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: This resource contains information related to solution to the const
   coefficient first order equation.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/7a308bc718d301e3519d4c405b574afe_MIT18_03SCF11_s8_1text.pdf
-file_size: ''
+file_size: 195863
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: This resource contains information related to linear operators, tim
   invariance.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/9f4b45ba5768d0101ef772f3958b1bf3_MIT18_03SCF11_s17_0intro.pdf
-file_size: ''
+file_size: 96789
 file_type: application/pdf
 image_metadata:
   caption: ''

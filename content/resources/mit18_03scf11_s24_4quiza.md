@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   integration with delta functions.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/efbb2ec7f15b5b3b4ef934d96bf3aaec_MIT18_03SCF11_s24_4quiza.pdf
-file_size: ''
+file_size: 132273
 file_type: application/pdf
 image_metadata:
   caption: ''

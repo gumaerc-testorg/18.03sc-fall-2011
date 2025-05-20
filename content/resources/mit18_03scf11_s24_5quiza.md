@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   generalized derivatives.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/6bbb7efce8d30af161fe0212ecdab275_MIT18_03SCF11_s24_5quiza.pdf
-file_size: ''
+file_size: 154179
 file_type: application/pdf
 image_metadata:
   caption: ''

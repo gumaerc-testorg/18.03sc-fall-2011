@@ -4,7 +4,7 @@ description: This resource contains choices for the problem statement related to
   factors.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/adec34048d9a69051d46a6ba60e5e7f6_MIT18_03SCF11_s5_6quizc.pdf
-file_size: ''
+file_size: 102897
 file_type: application/pdf
 image_metadata:
   caption: ''

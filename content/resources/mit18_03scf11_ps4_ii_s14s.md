@@ -4,7 +4,7 @@ description: This resource contains solutions for the practice problem statement
   related to exponential response.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/982ff8f4389826e122d9fa30f74b9c2d_MIT18_03SCF11_ps4_II_s14s.pdf
-file_size: ''
+file_size: 183518
 file_type: application/pdf
 image_metadata:
   caption: ''

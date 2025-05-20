@@ -4,7 +4,7 @@ description: 'This resource contains information related to matrix methods: eige
   and normal modes.'
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/ba6c595652e31c552f8491ec067fc762_MIT18_03SCF11_s33_0intro.pdf
-file_size: ''
+file_size: 109857
 file_type: application/pdf
 image_metadata:
   caption: ''

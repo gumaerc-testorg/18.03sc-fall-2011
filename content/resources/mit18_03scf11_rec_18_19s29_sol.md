@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   solving IVP's.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/eedff8bc49771f13964725bab8d6295e_MIT18_03SCF11_rec_18_19s29_sol.pdf
-file_size: ''
+file_size: 209037
 file_type: application/pdf
 image_metadata:
   caption: ''

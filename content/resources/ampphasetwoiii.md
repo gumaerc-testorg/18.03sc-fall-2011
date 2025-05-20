@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-03sc-differential-equations-fall-2011/aa9bd473fcb5f43e72f9c7480b922b5c_AmpPhaseTwoIII.jar
+file_size: 7241
 file_type: application/java-archive
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

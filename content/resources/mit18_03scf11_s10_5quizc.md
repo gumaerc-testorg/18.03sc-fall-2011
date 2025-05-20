@@ -4,7 +4,7 @@ description: This resource contains choices for the problem statement can soluti
   have a local maximum?
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/9cabeb3fc5ba41a093e827d463a72b9d_MIT18_03SCF11_s10_5quizc.pdf
-file_size: ''
+file_size: 91033
 file_type: application/pdf
 image_metadata:
   caption: ''

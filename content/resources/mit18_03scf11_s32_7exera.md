@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   matrix notation.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/70864b677e64e0cc25dac2ce7ee60923_MIT18_03SCF11_s32_7exera.pdf
-file_size: ''
+file_size: 134996
 file_type: application/pdf
 image_metadata:
   caption: ''

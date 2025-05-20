@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to poles and amplitude response.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/211c12b23876e9f76c519a0a4cffa3a9_MIT18_03SCF11_s31_4text.pdf
-file_size: ''
+file_size: 181770
 file_type: application/pdf
 image_metadata:
   caption: ''

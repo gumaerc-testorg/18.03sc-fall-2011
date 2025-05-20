@@ -4,7 +4,7 @@ description: This resource contains solutions for the problem statements related
   isoclines.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/24d04489ba039a6a2b7ed04fd5ef6d17_MIT18_03SCF11_s2_2exera.pdf
-file_size: ''
+file_size: 115479
 file_type: application/pdf
 image_metadata:
   caption: ''

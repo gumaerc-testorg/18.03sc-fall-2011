@@ -4,7 +4,7 @@ description: This resource contains information related to eigen values and eige
   vectors.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/529e451e6243dd52aae0f184f882b986_MIT18_03SCF11_s33_4text.pdf
-file_size: ''
+file_size: 127037
 file_type: application/pdf
 image_metadata:
   caption: ''

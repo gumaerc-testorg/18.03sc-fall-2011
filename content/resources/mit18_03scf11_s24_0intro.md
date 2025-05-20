@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to step and delta functions.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/05464f09f414fd551e53d8cd7aad0bff_MIT18_03SCF11_s24_0intro.pdf
-file_size: ''
+file_size: 142983
 file_type: application/pdf
 image_metadata:
   caption: ''

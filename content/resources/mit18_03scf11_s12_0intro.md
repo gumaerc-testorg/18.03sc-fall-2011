@@ -4,7 +4,7 @@ description: This resource contains information related to modes and the charact
   equation.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/dc32d4dc11be1aff1ed9fecef3e3d736_MIT18_03SCF11_s12_0intro.pdf
-file_size: ''
+file_size: 104088
 file_type: application/pdf
 image_metadata:
   caption: ''

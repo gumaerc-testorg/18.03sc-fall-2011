@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to linear systems.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/69761d1eec19dbac208fc00eb829798b_MIT18_03SCF11_ps8_II_s32q.pdf
-file_size: ''
+file_size: 181166
 file_type: application/pdf
 image_metadata:
   caption: ''

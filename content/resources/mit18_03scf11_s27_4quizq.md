@@ -4,7 +4,7 @@ description: This resource contains problem statements related to computing the 
   transform.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/2861ae98d658773ab14a6275ffe82a5a_MIT18_03SCF11_s27_4quizq.pdf
-file_size: ''
+file_size: 116999
 file_type: application/pdf
 image_metadata:
   caption: ''

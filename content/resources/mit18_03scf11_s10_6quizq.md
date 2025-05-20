@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to inflection points.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/2be85abbf8ca316b750b43400081b599_MIT18_03SCF11_s10_6quizq.pdf
-file_size: ''
+file_size: 86849
 file_type: application/pdf
 image_metadata:
   caption: ''

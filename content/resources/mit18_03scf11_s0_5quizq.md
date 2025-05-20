@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to quiz for ODE.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/2b37d789565243bca69c042dd76fee5c_MIT18_03SCF11_s0_5quizq.pdf
-file_size: ''
+file_size: 86791
 file_type: application/pdf
 image_metadata:
   caption: ''

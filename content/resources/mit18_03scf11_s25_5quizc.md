@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to unit impulse response.
 draft: false
 file: /courses/18-03sc-differential-equations-fall-2011/4a08680c0250607c2b34a765471d076e_MIT18_03SCF11_s25_5quizc.pdf
-file_size: ''
+file_size: 126201
 file_type: application/pdf
 image_metadata:
   caption: ''
