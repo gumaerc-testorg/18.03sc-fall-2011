@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to IVP's and t-translation.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/9c1a2c303728033238830f0592be3ab7_MIT18_03SCF11_s29_4text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/9c1a2c303728033238830f0592be3ab7_MIT18_03SCF11_s29_4text.pdf
 file_size: 191185
 file_type: application/pdf
 image_metadata:

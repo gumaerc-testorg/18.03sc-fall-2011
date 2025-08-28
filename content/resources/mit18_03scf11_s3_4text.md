@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to errors in euler's methods.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/e209a4d3b5feefdde7d65793f0bfbd72_MIT18_03SCF11_s3_4text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/e209a4d3b5feefdde7d65793f0bfbd72_MIT18_03SCF11_s3_4text.pdf
 file_size: 145607
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to mystery of sinusoid.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/d3be6620fb48b2905d3ddc9acbb81a64_MIT18_03SCF11_s7_2quizq.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/d3be6620fb48b2905d3ddc9acbb81a64_MIT18_03SCF11_s7_2quizq.pdf
 file_size: 116403
 file_type: application/pdf
 image_metadata:

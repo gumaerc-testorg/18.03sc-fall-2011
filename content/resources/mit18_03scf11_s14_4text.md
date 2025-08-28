@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to the simple harmonic oscillator.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/db0d09cb638aeab0707e1e8b18d2169d_MIT18_03SCF11_s14_4text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/db0d09cb638aeab0707e1e8b18d2169d_MIT18_03SCF11_s14_4text.pdf
 file_size: 178207
 file_type: application/pdf
 image_metadata:

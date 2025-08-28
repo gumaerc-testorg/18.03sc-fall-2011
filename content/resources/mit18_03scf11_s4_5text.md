@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to superposition principle.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/ac7afe1bf9429f8f9ee84592b79aa692_MIT18_03SCF11_s4_5text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/ac7afe1bf9429f8f9ee84592b79aa692_MIT18_03SCF11_s4_5text.pdf
 file_size: 127302
 file_type: application/pdf
 image_metadata:

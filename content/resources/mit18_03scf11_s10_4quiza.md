@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   stability of equiliria.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/78c6f3e6c314cd6dad7e33fdaf71eb64_MIT18_03SCF11_s10_4quiza.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/78c6f3e6c314cd6dad7e33fdaf71eb64_MIT18_03SCF11_s10_4quiza.pdf
 file_size: 120524
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statement related to
   units.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/c709178f5f19b5ea32f21e3932e0f7bb_MIT18_03SCF11_s5_3quiza.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/c709178f5f19b5ea32f21e3932e0f7bb_MIT18_03SCF11_s5_3quiza.pdf
 file_size: 96919
 file_type: application/pdf
 image_metadata:

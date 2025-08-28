@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-03sc-differential-equations-fall-2011/e27a5c1a1e5b42718f0310c5f8b5e24e_ConvAccum.jar
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/e27a5c1a1e5b42718f0310c5f8b5e24e_ConvAccum.jar
 file_size: 7623
 file_type: application/java-archive
 learning_resource_types: []

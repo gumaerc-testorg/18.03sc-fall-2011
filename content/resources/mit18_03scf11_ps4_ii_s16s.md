@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   undetermined coefficients.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/3a47ae9b9953107aaf37d3a5da0cab4e_MIT18_03SCF11_ps4_II_s16s.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/3a47ae9b9953107aaf37d3a5da0cab4e_MIT18_03SCF11_ps4_II_s16s.pdf
 file_size: 141828
 file_type: application/pdf
 image_metadata:

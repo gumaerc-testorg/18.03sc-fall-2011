@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to fourier series.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/bbd5d0826e540777e5978f1f6faffb63_MIT18_03SCF11_s21_0intro.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/bbd5d0826e540777e5978f1f6faffb63_MIT18_03SCF11_s21_0intro.pdf
 file_size: 113863
 file_type: application/pdf
 image_metadata:

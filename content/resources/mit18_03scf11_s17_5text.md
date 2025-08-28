@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to time invariance.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/a94abb4de2e8ef0ccb188c3f16514719_MIT18_03SCF11_s17_5text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/a94abb4de2e8ef0ccb188c3f16514719_MIT18_03SCF11_s17_5text.pdf
 file_size: 110419
 file_type: application/pdf
 image_metadata:

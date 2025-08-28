@@ -41,7 +41,7 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Recitation Videos",
+    "Problem-solving Videos",
     "Exams with Solutions",
     "Simulations",
     "Lecture Notes",
@@ -49,5 +49,6 @@
   ],
   "site_uid": "d1072f7f-8e57-44d1-ad38-e379db96d6ea",
   "site_short_id": "18.03sc-fall-2011",
+  "site_url_path": "courses/18-03sc-differential-equations-fall-2011",
   "title": "Course Metadata"
 }

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to proof of the generalized
   exponential response formula.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/126a06d9ea3f580dfb26d5b17aa4832b_MIT18_03SCF11_s17_6text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/126a06d9ea3f580dfb26d5b17aa4832b_MIT18_03SCF11_s17_6text.pdf
 file_size: 149677
 file_type: application/pdf
 image_metadata:

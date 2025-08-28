@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains practice final exam.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/7a97822f443c079f10d1271dc79fcd6b_MIT18_03SCF11_prfinal.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/7a97822f443c079f10d1271dc79fcd6b_MIT18_03SCF11_prfinal.pdf
 file_size: 176292
 file_type: application/pdf
 image_metadata:

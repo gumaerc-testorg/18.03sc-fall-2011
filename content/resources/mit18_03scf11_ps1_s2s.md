@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to geometric methods.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/8832df56f6afe5d5068e203f50050307_MIT18_03SCF11_ps1_s2s.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/8832df56f6afe5d5068e203f50050307_MIT18_03SCF11_ps1_s2s.pdf
 file_size: 171431
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to gain and phase log.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/e1289dae7d6f1dcba8c1bc7497545a52_MIT18_03SCF11_new_s15q.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/e1289dae7d6f1dcba8c1bc7497545a52_MIT18_03SCF11_new_s15q.pdf
 file_size: 117862
 file_type: application/pdf
 image_metadata:

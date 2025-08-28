@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to laplace transform.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/f624c6a23c56b1fbfe1ea978006f305e_MIT18_03SCF11_s27_0intro.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/f624c6a23c56b1fbfe1ea978006f305e_MIT18_03SCF11_s27_0intro.pdf
 file_size: 131576
 file_type: application/pdf
 image_metadata:

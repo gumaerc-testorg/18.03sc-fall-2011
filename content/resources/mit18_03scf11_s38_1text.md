@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to limit cycles.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/60663aac295434609a3d0dc9b31b42c4_MIT18_03SCF11_s38_1text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/60663aac295434609a3d0dc9b31b42c4_MIT18_03SCF11_s38_1text.pdf
 file_size: 178419
 file_type: application/pdf
 image_metadata:

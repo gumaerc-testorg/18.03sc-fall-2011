@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to period of the simple
   harmonic oscillator.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/ab3845565d1f3878c414c9cc64102267_MIT18_03SCF11_s12_3quizq.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/ab3845565d1f3878c414c9cc64102267_MIT18_03SCF11_s12_3quizq.pdf
 file_size: 111621
 file_type: application/pdf
 image_metadata:

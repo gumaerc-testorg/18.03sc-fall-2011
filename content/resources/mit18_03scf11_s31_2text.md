@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to pole diagrams.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/240f3b11fd6c1d81f8e1ed61e1683d8a_MIT18_03SCF11_s31_2text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/240f3b11fd6c1d81f8e1ed61e1683d8a_MIT18_03SCF11_s31_2text.pdf
 file_size: 121591
 file_type: application/pdf
 image_metadata:

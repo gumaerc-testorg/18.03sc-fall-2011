@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/18-03sc-differential-equations-fall-2011/mit18_03scf11_ps7_ii_s27q.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/mit18_03scf11_ps7_ii_s27q.pdf
 file_size: 75375
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to modelling by first linear
   ODE's.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/1ce2cf783d5f1d15ee411ec2e5f928ec_MIT18_03SCF11_s1_6text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/1ce2cf783d5f1d15ee411ec2e5f928ec_MIT18_03SCF11_s1_6text.pdf
 file_size: 135079
 file_type: application/pdf
 image_metadata:

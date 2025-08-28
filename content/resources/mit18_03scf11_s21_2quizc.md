@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to cosines with common
   periods.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/469b9c044f1efc5a1aa81c5a7bc9b4f0_MIT18_03SCF11_s21_2quizc.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/469b9c044f1efc5a1aa81c5a7bc9b4f0_MIT18_03SCF11_s21_2quizc.pdf
 file_size: 114181
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to the delta function.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/8e19336e1e413c0e9ddbea5a2bc00321_MIT18_03SCF11_s27_5text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/8e19336e1e413c0e9ddbea5a2bc00321_MIT18_03SCF11_s27_5text.pdf
 file_size: 149047
 file_type: application/pdf
 image_metadata:

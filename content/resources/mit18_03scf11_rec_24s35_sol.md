@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   matrix exponentials.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/d83a941b2dde3bc3b12c874e8eeee50f_MIT18_03SCF11_rec_24s35_sol.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/d83a941b2dde3bc3b12c874e8eeee50f_MIT18_03SCF11_rec_24s35_sol.pdf
 file_size: 197790
 file_type: application/pdf
 image_metadata:

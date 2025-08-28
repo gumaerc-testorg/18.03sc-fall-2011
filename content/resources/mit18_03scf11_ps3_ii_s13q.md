@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to damped oscillators.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/fa6c2637ff2070b6b8a3817b4fce9c28_MIT18_03SCF11_ps3_II_s13q.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/fa6c2637ff2070b6b8a3817b4fce9c28_MIT18_03SCF11_ps3_II_s13q.pdf
 file_size: 156074
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to phase lines applet.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/ff72affe28144bf699a256482ed58e0b_MIT18_03SCF11_s10_3appl.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/ff72affe28144bf699a256482ed58e0b_MIT18_03SCF11_s10_3appl.pdf
 file_size: 145042
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains problem statements related to pure resonance. '
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/eb21e2869d6f33fe8ff5c4ce9b0e3a0d_MIT18_03SCF11_new_s18q.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/eb21e2869d6f33fe8ff5c4ce9b0e3a0d_MIT18_03SCF11_new_s18q.pdf
 file_size: 116245
 file_type: application/pdf
 image_metadata:

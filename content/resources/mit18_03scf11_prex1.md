@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains practice exam 1 and solutions.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/80399ae4acee749eeb8b95238219ed01_MIT18_03SCF11_prex1.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/80399ae4acee749eeb8b95238219ed01_MIT18_03SCF11_prex1.pdf
 file_size: 263241
 file_type: application/pdf
 image_metadata:

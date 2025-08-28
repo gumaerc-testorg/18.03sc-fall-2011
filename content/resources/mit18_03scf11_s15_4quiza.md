@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   damping and amplitude.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/8824591d35ddacb2b8e83fe73d4c4025_MIT18_03SCF11_s15_4quiza.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/8824591d35ddacb2b8e83fe73d4c4025_MIT18_03SCF11_s15_4quiza.pdf
 file_size: 124058
 file_type: application/pdf
 image_metadata:

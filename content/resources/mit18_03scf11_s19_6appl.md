@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to amplitude and phase: second
   order III applet.'
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/858a30c02ea4d0233603eb32bb44c3a9_MIT18_03SCF11_s19_6appl.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/858a30c02ea4d0233603eb32bb44c3a9_MIT18_03SCF11_s19_6appl.pdf
 file_size: 120471
 file_type: application/pdf
 image_metadata:
