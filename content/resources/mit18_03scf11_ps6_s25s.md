@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   impulse response.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/81af24ebf4d82db499963b82491368c4_MIT18_03SCF11_ps6_s25s.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/81af24ebf4d82db499963b82491368c4_MIT18_03SCF11_ps6_s25s.pdf
 file_size: 135180
 file_type: application/pdf
 image_metadata:

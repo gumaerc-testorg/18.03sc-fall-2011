@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   interpret the graph.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/afe5d6242d3e555cb3c3acca17a00539_MIT18_03SCF11_s4_3quiza.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/afe5d6242d3e555cb3c3acca17a00539_MIT18_03SCF11_s4_3quiza.pdf
 file_size: 98583
 file_type: application/pdf
 image_metadata:

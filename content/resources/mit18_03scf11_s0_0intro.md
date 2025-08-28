@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains conventions and preliminary materials.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/927bfc89f2858d959a6d569b41174f88_MIT18_03SCF11_s0_0intro.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/927bfc89f2858d959a6d569b41174f88_MIT18_03SCF11_s0_0intro.pdf
 file_size: 82952
 file_type: application/pdf
 image_metadata:

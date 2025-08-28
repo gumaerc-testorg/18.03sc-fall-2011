@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to partial fractions and inverse
   laplace transform.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/d0d1ebc17a54c1be0b67e1d23bd2fa18_MIT18_03SCF11_s28_0intro.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/d0d1ebc17a54c1be0b67e1d23bd2fa18_MIT18_03SCF11_s28_0intro.pdf
 file_size: 125675
 file_type: application/pdf
 image_metadata:

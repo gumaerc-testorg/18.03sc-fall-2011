@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to phase portraits.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/bb43c909efc0928f52f9a446dcda0891_MIT18_03SCF11_ps9_s34q.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/bb43c909efc0928f52f9a446dcda0891_MIT18_03SCF11_ps9_s34q.pdf
 file_size: 136132
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to damped harmonic oscillator.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/89c69b5f8b2186369dfd61426093d8a2_MIT18_03SCF11_s23_3text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/89c69b5f8b2186369dfd61426093d8a2_MIT18_03SCF11_s23_3text.pdf
 file_size: 153231
 file_type: application/pdf
 image_metadata:

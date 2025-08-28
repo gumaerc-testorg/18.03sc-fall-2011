@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information laplace transform table.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/a85bae85be861b27bcbb0e5332483df2_MIT18_03SCF11_laptable29.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/a85bae85be861b27bcbb0e5332483df2_MIT18_03SCF11_laptable29.pdf
 file_size: 176643
 file_type: application/pdf
 image_metadata:

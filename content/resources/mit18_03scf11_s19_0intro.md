@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to frequency response and
   practical resonance.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/b2962fa40f47d242488ffaac35090072_MIT18_03SCF11_s19_0intro.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/b2962fa40f47d242488ffaac35090072_MIT18_03SCF11_s19_0intro.pdf
 file_size: 122431
 file_type: application/pdf
 image_metadata:

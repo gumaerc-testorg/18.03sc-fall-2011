@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to integration with
   delta functions.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/6c4637c6617c7ccf1f888c1127e0801d_MIT18_03SCF11_s24_4quizq.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/6c4637c6617c7ccf1f888c1127e0801d_MIT18_03SCF11_s24_4quizq.pdf
 file_size: 128835
 file_type: application/pdf
 image_metadata:

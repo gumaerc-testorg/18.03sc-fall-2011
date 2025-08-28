@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to linear ODE's.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/054e9a7b5c76d77c0c2e84ab8679952e_MIT18_03SCF11_rec_03s4.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/054e9a7b5c76d77c0c2e84ab8679952e_MIT18_03SCF11_rec_03s4.pdf
 file_size: 112040
 file_type: application/pdf
 image_metadata:

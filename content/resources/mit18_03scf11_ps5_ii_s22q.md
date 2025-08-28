@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to operations.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/0ff791e53fec58c071bd45ac1c0282b2_MIT18_03SCF11_ps5_II_s22q.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/0ff791e53fec58c071bd45ac1c0282b2_MIT18_03SCF11_ps5_II_s22q.pdf
 file_size: 164075
 file_type: application/pdf
 image_metadata:

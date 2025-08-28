@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to more entries for the laplace
   table.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/2343f70cc426b469402f731015ac9719_MIT18_03SCF11_s27_3text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/2343f70cc426b469402f731015ac9719_MIT18_03SCF11_s27_3text.pdf
 file_size: 197029
 file_type: application/pdf
 image_metadata:

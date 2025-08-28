@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to mechanical vibration system:
   driving through the dashpot.'
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/2fc9ba6ac49f94053d3407fe5227474d_MIT18_03SCF11_s19_4text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/2fc9ba6ac49f94053d3407fe5227474d_MIT18_03SCF11_s19_4text.pdf
 file_size: 182013
 file_type: application/pdf
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-03sc-differential-equations-fall-2011/6667d97cf36c94a2f4ee078614c4b3df_Daimp.jar
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/6667d97cf36c94a2f4ee078614c4b3df_Daimp.jar
 file_size: 45371
 file_type: application/java-archive
 learning_resource_types: []

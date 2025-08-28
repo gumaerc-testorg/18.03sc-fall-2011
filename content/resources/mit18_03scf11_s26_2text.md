@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to green's formula.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/d817b6b281c287ac6f99ad2ee2ddc0d8_MIT18_03SCF11_s26_2text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/d817b6b281c287ac6f99ad2ee2ddc0d8_MIT18_03SCF11_s26_2text.pdf
 file_size: 131509
 file_type: application/pdf
 image_metadata:

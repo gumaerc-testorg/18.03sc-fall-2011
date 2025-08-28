@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to general case.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/73dc361651c1ca919da12636bc92e48f_MIT18_03SCF11_s23_4text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/73dc361651c1ca919da12636bc92e48f_MIT18_03SCF11_s23_4text.pdf
 file_size: 163082
 file_type: application/pdf
 image_metadata:

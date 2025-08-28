@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems for practice.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/fcff18bb3c6bea542bf311e0c66726bc_MIT18_03SCF11_rec_01s1.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/fcff18bb3c6bea542bf311e0c66726bc_MIT18_03SCF11_rec_01s1.pdf
 file_size: 125644
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to existence and uniqueness
   theorem of ODE's.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/d67e32aae7f8ff49031552dacdc15a42_MIT18_03SCF11_s2_3text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/d67e32aae7f8ff49031552dacdc15a42_MIT18_03SCF11_s2_3text.pdf
 file_size: 103636
 file_type: application/pdf
 image_metadata:

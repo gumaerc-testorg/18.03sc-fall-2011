@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains exam 1.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/4d2cb21704c671f12755a290e84a01be_MIT18_03SCF11_ex1.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/4d2cb21704c671f12755a290e84a01be_MIT18_03SCF11_ex1.pdf
 file_size: 173535
 file_type: application/pdf
 image_metadata:

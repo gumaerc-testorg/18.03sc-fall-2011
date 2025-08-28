@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to first order autonomous
   differential equations.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/86e5f5c742b5fbfe478a1d2d5df13be5_MIT18_03SCF11_s10_0intro.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/86e5f5c742b5fbfe478a1d2d5df13be5_MIT18_03SCF11_s10_0intro.pdf
 file_size: 107423
 file_type: application/pdf
 image_metadata:

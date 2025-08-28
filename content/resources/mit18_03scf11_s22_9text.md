@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to applications to infinite
   series.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/e8958b64c161d84dcf7680d46bf62c86_MIT18_03SCF11_s22_9text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/e8958b64c161d84dcf7680d46bf62c86_MIT18_03SCF11_s22_9text.pdf
 file_size: 167729
 file_type: application/pdf
 image_metadata:

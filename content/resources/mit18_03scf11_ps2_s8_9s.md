@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   exponential input.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/e5cc135b5093bdcacd7853afe16548a7_MIT18_03SCF11_ps2_s8_9s.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/e5cc135b5093bdcacd7853afe16548a7_MIT18_03SCF11_ps2_s8_9s.pdf
 file_size: 129999
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to exponential response.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/9b630c3edc2f03d5819d6c8835678e5a_MIT18_03SCF11_s14_0intro.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/9b630c3edc2f03d5819d6c8835678e5a_MIT18_03SCF11_s14_0intro.pdf
 file_size: 99276
 file_type: application/pdf
 image_metadata:

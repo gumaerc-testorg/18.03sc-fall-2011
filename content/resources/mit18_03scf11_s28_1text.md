@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to Laplace inverse by table
   lookup.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/b29fd70bac8c94d1fc2c7ce0dc459e39_MIT18_03SCF11_s28_1text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/b29fd70bac8c94d1fc2c7ce0dc459e39_MIT18_03SCF11_s28_1text.pdf
 file_size: 160414
 file_type: application/pdf
 image_metadata:

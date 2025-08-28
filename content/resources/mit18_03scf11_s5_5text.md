@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to superposition and integrating
   factors and solutions.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/da594c6c5f925ef848415d049a01f805_MIT18_03SCF11_s5_5text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/da594c6c5f925ef848415d049a01f805_MIT18_03SCF11_s5_5text.pdf
 file_size: 151404
 file_type: application/pdf
 image_metadata:

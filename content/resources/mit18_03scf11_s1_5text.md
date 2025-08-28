@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to solutions that blow up:
   the domain of a solution.'
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/322cda05dde4a6903720187efc36b107_MIT18_03SCF11_s1_5text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/322cda05dde4a6903720187efc36b107_MIT18_03SCF11_s1_5text.pdf
 file_size: 147202
 file_type: application/pdf
 image_metadata:

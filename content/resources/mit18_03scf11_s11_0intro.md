@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to linear vs non linear.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/cb62fdc138e0e0215759bee235f223ad_MIT18_03SCF11_s11_0intro.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/cb62fdc138e0e0215759bee235f223ad_MIT18_03SCF11_s11_0intro.pdf
 file_size: 72919
 file_type: application/pdf
 image_metadata:

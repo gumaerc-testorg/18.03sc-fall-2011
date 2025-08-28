@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to laplace: solving initial
   value problems.'
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/30364347a6539066d841ffd90fece5b6_MIT18_03SCF11_s29_3text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/30364347a6539066d841ffd90fece5b6_MIT18_03SCF11_s29_3text.pdf
 file_size: 134746
 file_type: application/pdf
 image_metadata:

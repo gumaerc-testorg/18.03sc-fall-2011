@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to long term behavior: fences,
   funnels and separatrices.'
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/973f236bd6c6f3ab45ef8d9df099178c_MIT18_03SCF11_s2_5text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/973f236bd6c6f3ab45ef8d9df099178c_MIT18_03SCF11_s2_5text.pdf
 file_size: 156443
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to the meaning of k.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/c6dff45fb05330b91e1874e809e3ef44_MIT18_03SCF11_s5_2quizq.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/c6dff45fb05330b91e1874e809e3ef44_MIT18_03SCF11_s5_2quizq.pdf
 file_size: 96312
 file_type: application/pdf
 image_metadata:

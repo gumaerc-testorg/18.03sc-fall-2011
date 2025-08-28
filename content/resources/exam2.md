@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-03sc-differential-equations-fall-2011/2643355de4859af82a430c199041f481_exam2.jpg
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/2643355de4859af82a430c199041f481_exam2.jpg
 file_size: 2731
 file_type: image/jpeg
 image_metadata:

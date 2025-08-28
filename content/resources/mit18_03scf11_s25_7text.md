@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to second order unit impulse
   response.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/dc47b92b968a26da6b7d3b14036feb51_MIT18_03SCF11_s25_7text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/dc47b92b968a26da6b7d3b14036feb51_MIT18_03SCF11_s25_7text.pdf
 file_size: 136383
 file_type: application/pdf
 image_metadata:

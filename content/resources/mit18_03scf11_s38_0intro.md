@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to limitations of the linear:
   limit cycles and chaos.'
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/ea6e55ad7e5f7a079dbeae73a34015b5_MIT18_03SCF11_s38_0intro.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/ea6e55ad7e5f7a079dbeae73a34015b5_MIT18_03SCF11_s38_0intro.pdf
 file_size: 93498
 file_type: application/pdf
 image_metadata:

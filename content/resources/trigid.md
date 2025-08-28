@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-03sc-differential-equations-fall-2011/4cf1b75ec8dd26524207c461e3f867c8_TrigId.jar
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/4cf1b75ec8dd26524207c461e3f867c8_TrigId.jar
 file_size: 4641
 file_type: application/java-archive
 learning_resource_types: []

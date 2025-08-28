@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   complex exponentials.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/a6a0a64c55895f2b5224ea059839d827_MIT18_03SCF11_s6_8quiza.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/a6a0a64c55895f2b5224ea059839d827_MIT18_03SCF11_s6_8quiza.pdf
 file_size: 105874
 file_type: application/pdf
 image_metadata:

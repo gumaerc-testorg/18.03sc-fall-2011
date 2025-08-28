@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   elimination followed by anti-elimination.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/d97ca411a316706098f10ea123a42de4_MIT18_03SCF11_s32_11quiza.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/d97ca411a316706098f10ea123a42de4_MIT18_03SCF11_s32_11quiza.pdf
 file_size: 133568
 file_type: application/pdf
 image_metadata:
