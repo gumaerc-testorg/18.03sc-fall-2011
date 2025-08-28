@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains practice problem statements related to frequency
   response.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/801ef25fcebec9a95dabc955ff843f76_MIT18_03SCF11_ps4_s19q.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/801ef25fcebec9a95dabc955ff843f76_MIT18_03SCF11_ps4_s19q.pdf
 file_size: 119776
 file_type: application/pdf
 image_metadata:

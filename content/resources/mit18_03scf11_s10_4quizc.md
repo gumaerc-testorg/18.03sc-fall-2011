@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains choices for the problem statement stability of
   equilibria.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/ca37f282cd6f6236d976a497e82c15b6_MIT18_03SCF11_s10_4quizc.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/ca37f282cd6f6236d976a497e82c15b6_MIT18_03SCF11_s10_4quizc.pdf
 file_size: 114614
 file_type: application/pdf
 image_metadata:

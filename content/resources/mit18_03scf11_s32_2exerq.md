@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to solving by elimination.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/87ee712d22bc05b58408b64667908e87_MIT18_03SCF11_s32_2exerq.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/87ee712d22bc05b58408b64667908e87_MIT18_03SCF11_s32_2exerq.pdf
 file_size: 118983
 file_type: application/pdf
 image_metadata:

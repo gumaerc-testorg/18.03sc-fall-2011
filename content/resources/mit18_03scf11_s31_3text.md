@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to poles and stability.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/a8b0706dd2f7d811deb867bce13ad3d6_MIT18_03SCF11_s31_3text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/a8b0706dd2f7d811deb867bce13ad3d6_MIT18_03SCF11_s31_3text.pdf
 file_size: 179012
 file_type: application/pdf
 image_metadata:

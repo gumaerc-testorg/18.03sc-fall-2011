@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to the meaning of fourier
   series.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/8a79dd44f3ff7a51a669a799231563d4_MIT18_03SCF11_s22_6text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/8a79dd44f3ff7a51a669a799231563d4_MIT18_03SCF11_s22_6text.pdf
 file_size: 117330
 file_type: application/pdf
 image_metadata:

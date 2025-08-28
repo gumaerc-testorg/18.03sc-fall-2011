@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains choices for the problem statements related to
   complex powers.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/738c19fca80ace0dfc3b3611e353a8ae_MIT18_03SCF11_s6_4quizc.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/738c19fca80ace0dfc3b3611e353a8ae_MIT18_03SCF11_s6_4quizc.pdf
 file_size: 97050
 file_type: application/pdf
 image_metadata:

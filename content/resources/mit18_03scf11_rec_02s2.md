@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains practice problems related to geometric methods.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/43ea9f63e71290be36ac9738e2b0bafc_MIT18_03SCF11_rec_02s2.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/43ea9f63e71290be36ac9738e2b0bafc_MIT18_03SCF11_rec_02s2.pdf
 file_size: 144641
 file_type: application/pdf
 image_metadata:

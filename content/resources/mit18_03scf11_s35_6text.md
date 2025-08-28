@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to the normalized fundamental
   matrix.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/843a866acaa14009ace69ff67c99a0a6_MIT18_03SCF11_s35_6text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/843a866acaa14009ace69ff67c99a0a6_MIT18_03SCF11_s35_6text.pdf
 file_size: 151067
 file_type: application/pdf
 image_metadata:

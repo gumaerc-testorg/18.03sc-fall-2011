@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to periodic input.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/d4b6285c3f249870184743545873e3f3_MIT18_03SCF11_ps6_II_s23q.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/d4b6285c3f249870184743545873e3f3_MIT18_03SCF11_ps6_II_s23q.pdf
 file_size: 133422
 file_type: application/pdf
 image_metadata:

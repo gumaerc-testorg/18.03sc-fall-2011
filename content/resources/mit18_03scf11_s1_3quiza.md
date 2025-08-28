@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions to the problem statements related to
   separation of variables.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/f7736f39b3032571bc47978da8574600_MIT18_03SCF11_s1_3quiza.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/f7736f39b3032571bc47978da8574600_MIT18_03SCF11_s1_3quiza.pdf
 file_size: 107522
 file_type: application/pdf
 image_metadata:

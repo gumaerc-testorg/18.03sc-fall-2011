@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains problem statements related to partial fractions. '
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/ce7039fecd1c6c5c7e67528a1b7bf67e_MIT18_03SCF11_ps7_s28q.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/ce7039fecd1c6c5c7e67528a1b7bf67e_MIT18_03SCF11_ps7_s28q.pdf
 file_size: 131532
 file_type: application/pdf
 image_metadata:

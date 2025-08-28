@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains choices for the problem statement inflection points.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/e7f2e912d25e3ce7663ecd3f9f3fa4a3_MIT18_03SCF11_s10_6quizc.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/e7f2e912d25e3ce7663ecd3f9f3fa4a3_MIT18_03SCF11_s10_6quizc.pdf
 file_size: 95630
 file_type: application/pdf
 image_metadata:

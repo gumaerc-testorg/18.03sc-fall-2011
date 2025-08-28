@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to the bordeline geometric
   types.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/e3a2aaca5cca8fb85cb48631609351d3_MIT18_03SCF11_s37_3text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/e3a2aaca5cca8fb85cb48631609351d3_MIT18_03SCF11_s37_3text.pdf
 file_size: 326361
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to computing the laplace transform.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/305abd5ee5224192b859f158fe780909_MIT18_03SCF11_s27_4quizc.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/305abd5ee5224192b859f158fe780909_MIT18_03SCF11_s27_4quizc.pdf
 file_size: 121110
 file_type: application/pdf
 image_metadata:

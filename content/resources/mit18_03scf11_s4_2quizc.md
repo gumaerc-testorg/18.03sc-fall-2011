@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains choices for the problem statements related to
   is it linear?
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/75c96d564978a1767017e43248edc941_MIT18_03SCF11_s4_2quizc.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/75c96d564978a1767017e43248edc941_MIT18_03SCF11_s4_2quizc.pdf
 file_size: 100333
 file_type: application/pdf
 image_metadata:

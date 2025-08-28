@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to finding n-th roots.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/76e264f8245dae2a02ce54ecb3e135af_MIT18_03SCF11_s6_9text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/76e264f8245dae2a02ce54ecb3e135af_MIT18_03SCF11_s6_9text.pdf
 file_size: 167561
 file_type: application/pdf
 image_metadata:

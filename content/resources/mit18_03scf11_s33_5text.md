@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to distinct real roots.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/2659ec3722be2ef04b5aabf93331329f_MIT18_03SCF11_s33_5text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/2659ec3722be2ef04b5aabf93331329f_MIT18_03SCF11_s33_5text.pdf
 file_size: 120233
 file_type: application/pdf
 image_metadata:

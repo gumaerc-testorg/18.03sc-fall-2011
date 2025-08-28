@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to linear algebra.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/1d34af69a9921485df7349f77027d12a_MIT18_03SCF11_s33_2exerq.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/1d34af69a9921485df7349f77027d12a_MIT18_03SCF11_s33_2exerq.pdf
 file_size: 128797
 file_type: application/pdf
 image_metadata:

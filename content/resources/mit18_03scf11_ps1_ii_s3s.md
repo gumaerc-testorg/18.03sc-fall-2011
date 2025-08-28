@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   numerical methods.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/c2e5106b0abe2d5be099031970381d2b_MIT18_03SCF11_ps1_II_s3s.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/c2e5106b0abe2d5be099031970381d2b_MIT18_03SCF11_ps1_II_s3s.pdf
 file_size: 130955
 file_type: application/pdf
 image_metadata:

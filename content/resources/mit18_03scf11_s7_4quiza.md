@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   amplitude phase form.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/c8854ff9e7efa5d21fd3e45658047596_MIT18_03SCF11_s7_4quiza.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/c8854ff9e7efa5d21fd3e45658047596_MIT18_03SCF11_s7_4quiza.pdf
 file_size: 120211
 file_type: application/pdf
 image_metadata:

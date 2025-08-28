@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains solutions for the practice problem statements
   related to exponential response. '
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/cd825a03eb2909580fa0523bf9bfbe73_MIT18_03SCF11_rec_09s14_sol.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/cd825a03eb2909580fa0523bf9bfbe73_MIT18_03SCF11_rec_09s14_sol.pdf
 file_size: 215804
 file_type: application/pdf
 image_metadata:

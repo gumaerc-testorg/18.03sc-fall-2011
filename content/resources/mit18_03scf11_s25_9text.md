@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to high order unit step response.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/ad3474812e9ce7c227b9569c7422d528_MIT18_03SCF11_s25_9text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/ad3474812e9ce7c227b9569c7422d528_MIT18_03SCF11_s25_9text.pdf
 file_size: 145773
 file_type: application/pdf
 image_metadata:

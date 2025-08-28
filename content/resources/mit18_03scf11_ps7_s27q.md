@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to laplace transform.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/7ba908e68cfebf033db955867b18cbe6_MIT18_03SCF11_ps7_s27q.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/7ba908e68cfebf033db955867b18cbe6_MIT18_03SCF11_ps7_s27q.pdf
 file_size: 130158
 file_type: application/pdf
 image_metadata:

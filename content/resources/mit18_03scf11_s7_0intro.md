@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to sinusoidal functions.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/fdaf87a842126e2bd9075a6bf1d89d33_MIT18_03SCF11_s7_0intro.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/fdaf87a842126e2bd9075a6bf1d89d33_MIT18_03SCF11_s7_0intro.pdf
 file_size: 95574
 file_type: application/pdf
 image_metadata:

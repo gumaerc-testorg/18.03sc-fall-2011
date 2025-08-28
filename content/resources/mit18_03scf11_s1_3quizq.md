@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains questions related to separation of variables.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/181207bc3811f5460e43f84ad9e3a10d_MIT18_03SCF11_s1_3quizq.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/181207bc3811f5460e43f84ad9e3a10d_MIT18_03SCF11_s1_3quizq.pdf
 file_size: 88960
 file_type: application/pdf
 image_metadata:

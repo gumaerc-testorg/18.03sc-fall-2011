@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to unit impulse response.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/c58690a4a0ff74668a42aacf6a52ccff_MIT18_03SCF11_s25_8quiza.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/c58690a4a0ff74668a42aacf6a52ccff_MIT18_03SCF11_s25_8quiza.pdf
 file_size: 124846
 file_type: application/pdf
 image_metadata:

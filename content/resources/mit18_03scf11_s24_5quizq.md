@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to generalized derivatives.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/87b6f80d807c95a102f0a5d1a76a98e3_MIT18_03SCF11_s24_5quizq.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/87b6f80d807c95a102f0a5d1a76a98e3_MIT18_03SCF11_s24_5quizq.pdf
 file_size: 141423
 file_type: application/pdf
 image_metadata:

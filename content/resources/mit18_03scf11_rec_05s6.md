@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to complex arithmetic.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/56e28841b8a6831f48bd10a9bf4d91a5_MIT18_03SCF11_rec_05s6.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/56e28841b8a6831f48bd10a9bf4d91a5_MIT18_03SCF11_rec_05s6.pdf
 file_size: 109610
 file_type: application/pdf
 image_metadata:

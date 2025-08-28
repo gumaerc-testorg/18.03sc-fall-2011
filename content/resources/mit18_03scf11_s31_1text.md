@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to definition of poles.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/f27e6e56fcce3f8683efa52d546c6005_MIT18_03SCF11_s31_1text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/f27e6e56fcce3f8683efa52d546c6005_MIT18_03SCF11_s31_1text.pdf
 file_size: 213945
 file_type: application/pdf
 image_metadata:

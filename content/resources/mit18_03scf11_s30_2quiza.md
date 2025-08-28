@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   finding p(D).
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/e5022425b78d559eba7c9b6738dc7f01_MIT18_03SCF11_s30_2quiza.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/e5022425b78d559eba7c9b6738dc7f01_MIT18_03SCF11_s30_2quiza.pdf
 file_size: 127612
 file_type: application/pdf
 image_metadata:

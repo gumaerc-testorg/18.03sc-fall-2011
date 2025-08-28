@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to linear phase portraits:
   matrix entry.'
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/94dc5d4ef9a2fd1e7f5535804815e2cc_MIT18_03SCF11_s32_8appl.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/94dc5d4ef9a2fd1e7f5535804815e2cc_MIT18_03SCF11_s32_8appl.pdf
 file_size: 168352
 file_type: application/pdf
 image_metadata:

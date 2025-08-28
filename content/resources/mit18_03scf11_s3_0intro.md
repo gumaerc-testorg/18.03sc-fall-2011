@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to numerical methods.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/43625685f97bff48be1817f1ccd48f87_MIT18_03SCF11_s3_0intro.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/43625685f97bff48be1817f1ccd48f87_MIT18_03SCF11_s3_0intro.pdf
 file_size: 92541
 file_type: application/pdf
 image_metadata:

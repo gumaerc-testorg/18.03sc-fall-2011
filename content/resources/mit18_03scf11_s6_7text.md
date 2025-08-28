@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to complex exponentials.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/8f82d29d36ea8813cf48871cc5f17148_MIT18_03SCF11_s6_7text.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/8f82d29d36ea8813cf48871cc5f17148_MIT18_03SCF11_s6_7text.pdf
 file_size: 133457
 file_type: application/pdf
 image_metadata:

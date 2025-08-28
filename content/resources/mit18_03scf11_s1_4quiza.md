@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions to the problem statements related to
   is its separable?
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/dd345bc87c5351376cdef6e6f05e81ca_MIT18_03SCF11_s1_4quiza.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/dd345bc87c5351376cdef6e6f05e81ca_MIT18_03SCF11_s1_4quiza.pdf
 file_size: 99590
 file_type: application/pdf
 image_metadata:

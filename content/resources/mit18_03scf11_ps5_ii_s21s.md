@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   fourier series.
 draft: false
-file: /courses/18-03sc-differential-equations-fall-2011/96901b27a11c4fe09afdeb88f10115b8_MIT18_03SCF11_ps5_II_s21s.pdf
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/96901b27a11c4fe09afdeb88f10115b8_MIT18_03SCF11_ps5_II_s21s.pdf
 file_size: 263641
 file_type: application/pdf
 image_metadata:
