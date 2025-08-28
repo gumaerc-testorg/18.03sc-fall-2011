@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-03sc-differential-equations-fall-2011/9701e287eae457f08fa3cb1eb0e01db2_fkGAF5jHjdY.vtt
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/9701e287eae457f08fa3cb1eb0e01db2_fkGAF5jHjdY.vtt
 file_size: 14901
 file_type: application/x-subrip
 learning_resource_types: []

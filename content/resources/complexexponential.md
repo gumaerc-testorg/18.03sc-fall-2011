@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-03sc-differential-equations-fall-2011/d17db530117b0d2ad0b015af8467f3e9_ComplexExponential.jar
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/d17db530117b0d2ad0b015af8467f3e9_ComplexExponential.jar
 file_size: 4472
 file_type: application/java-archive
 learning_resource_types: []

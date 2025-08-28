@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-03sc-differential-equations-fall-2011/f879453f5d2dd6325f2af450958d232f_FourierCoefficients.jar
+file: /ol-ocw-studio-app/courses/18-03sc-differential-equations-fall-2011/f879453f5d2dd6325f2af450958d232f_FourierCoefficients.jar
 file_size: 8835
 file_type: application/java-archive
 learning_resource_types: []
