@@ -12,7 +12,7 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-« [Previous](https://ocw-studio.odl.mit.edu/sites/18-03sc-differential-equations-fall-2011/type/page/) | {{% resource_link "26908f85-4e2c-8f70-f855-103e2a50f442" "Next" %}} »
+« {{% resource_link "d6a83509-0573-4208-9167-34db4df058cb" "Previous" %}} | {{% resource_link "26908f85-4e2c-8f70-f855-103e2a50f442" "Next" %}} »
 
 ## Course Overview
 
@@ -20,9 +20,9 @@ The laws of nature are expressed as differential equations. Scientists and engin
 
 ## Prerequisites
 
-At MIT, 18.03 Differential Equations has [18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/) as a prerequisite. [18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02-multivariable-calculus-spring-2006/) is a corequisite, meaning students can take 18.02 and 18.03 simultaneously. From 18.02 we will expect knowledge of vectors, the arithmetic of matrices, and some simple properties of vector valued functions.
+At MIT, 18.03 Differential Equations has {{% resource_link "2690eefc-6440-4e99-8202-c4686518a89c" "18.01 Single Variable Calculus" %}} as a prerequisite. {{% resource_link "c8a7bb90-d648-47a5-a650-08ea146d6ce7" "18.02 Multivariable Calculus" %}} is a corequisite, meaning students can take 18.02 and 18.03 simultaneously. From 18.02 we will expect knowledge of vectors, the arithmetic of matrices, and some simple properties of vector valued functions.
 
-OCW users will find [18.01SC Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) and [18.02SC Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) useful in preparing for this course.
+OCW users will find {{% resource_link "a8f67a14-eeb0-485b-8693-35ac26fd313d" "18.01SC Single Variable Calculus" %}} and {{% resource_link "9d0435fe-901d-4de1-b1e8-6c1922424e5e" "18.02SC Multivariable Calculus" %}} useful in preparing for this course.
 
 ## Course Goals
 
@@ -66,15 +66,15 @@ MIT expects its students to spend about 150 hours on this course. More than half
 
 {{< resource uuid="58b3770a-846c-be04-ca90-8161a0dcb360" >}}
 
-Haynes Miller is a Professor of Mathematics at MIT. In 2005 he was an [MIT MacVicar Faculty Fellow](http://web.mit.edu/macvicar/) in recognition of his outstanding contributions to undergraduate education. He has taught 18.03 many times and was the prime mover behind its current design. Professor Miller contributed many of the materials used in this OCW Scholar course. He was also the principal investigator behind the development of the Interactive Java® Demonstrations called [Mathlets](http://math.mit.edu/mathlets/) used here.
+Haynes Miller is a Professor of Mathematics at MIT. In 2005 he was an {{% resource_link "d3957a01-8e52-4961-8e41-da0b8ad0532d" "MIT MacVicar Faculty Fellow" %}} in recognition of his outstanding contributions to undergraduate education. He has taught 18.03 many times and was the prime mover behind its current design. Professor Miller contributed many of the materials used in this OCW Scholar course. He was also the principal investigator behind the development of the Interactive Java® Demonstrations called {{% resource_link "38a851cc-c3e4-4b4d-bee2-bd688c78bc0b" "Mathlets" %}} used here.
 
 {{< resource uuid="6c5f3cb3-7de2-b55c-05db-357df3867b62" >}}
 
-Dr. Jeremy Orloff is a lecturer in the Department of Mathematics and in the [Experimental Study Group](http://esg.mit.edu/) at MIT. He has taught 18.03 many times. Dr. Orloff was the lead content developer of this OCW Scholar course and worked closely with MIT OpenCourseWare on its development.
+Dr. Jeremy Orloff is a lecturer in the Department of Mathematics and in the {{% resource_link "11e4c664-8344-4ccb-b39d-6003e55325ca" "Experimental Study Group" %}} at MIT. He has taught 18.03 many times. Dr. Orloff was the lead content developer of this OCW Scholar course and worked closely with MIT OpenCourseWare on its development.
 
 {{< resource uuid="f63da2e3-f7c5-8c8c-6d5c-f379c8ce0446" >}}
 
-Dr. John Lewis is a Research Affiliate and former Senior Lecturer in the Department of Mathematics. He taught 18.03 for many years in the Experimental Study Group and [Concourse](https://concourse.mit.edu/) programs at MIT, often in collaboration with Dr. Orloff.
+Dr. John Lewis is a Research Affiliate and former Senior Lecturer in the Department of Mathematics. He taught 18.03 for many years in the Experimental Study Group and {{% resource_link "ee19287c-c1b8-4d4d-bb9f-e2dc8794b7c3" "Concourse" %}} programs at MIT, often in collaboration with Dr. Orloff.
 
 ### Video Lectures
 
@@ -100,4 +100,4 @@ Arthur Mattuck is an Emeritus Professor of Mathematics at MIT. He has been a maj
 - Olga Stroilova
 - Abiy Fekadu Tasissa
 
-« [Previous](https://ocw-studio.odl.mit.edu/sites/18-03sc-differential-equations-fall-2011/type/page/) | {{% resource_link "26908f85-4e2c-8f70-f855-103e2a50f442" "Next" %}} »
+« {{% resource_link "d6a83509-0573-4208-9167-34db4df058cb" "Previous" %}} | {{% resource_link "26908f85-4e2c-8f70-f855-103e2a50f442" "Next" %}} »
